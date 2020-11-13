@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const pointsWithinPolygon = require("@turf/points-within-polygon");
 const Tallinn8kmBuffer = require("./buffer.json");
 
-const DEBUG = true;
+const DEBUG = false;
 const USEBUFFER = true;
 
 const toGeoJSONCollection = (data) => {
@@ -102,7 +102,10 @@ const fetchStops = () => {
 
       var geojson = toGeoJSONCollection(parsedData);
 
-      fs.writeFile("data.json", JSON.stringify(geojson), (err) => {
+      fs.writeFile("public/peatused.js", `var peatused = ${JSON.stringify(geojson)};`, (err) => {
+        if (err) throw err;
+      });
+      fs.writeFile("public/data.json", JSON.stringify(geojson, null, 2), (err) => {
         if (err) throw err;
       });
     });
