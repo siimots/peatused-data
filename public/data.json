@@ -1111,7 +1111,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "14753",
-        "Name": "Maardu mõisa tee"
+        "Name": "Maardumõisa tee"
       },
       "geometry": {
         "type": "Point",
@@ -8116,8 +8116,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.57786,
-          59.45572
+          24.57782,
+          59.45573
         ]
       }
     },
@@ -8130,8 +8130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.57797,
-          59.45567
+          24.5774,
+          59.45617
         ]
       }
     },
@@ -8144,8 +8144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.58456,
-          59.45156
+          24.58467,
+          59.45142
         ]
       }
     },
@@ -8438,8 +8438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6334,
-          59.42807
+          24.63318,
+          59.42787
         ]
       }
     },
@@ -8592,7 +8592,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62284,
+          24.62207,
           59.40767
         ]
       }
@@ -8620,8 +8620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62843,
-          59.40885
+          24.62813,
+          59.40877
         ]
       }
     },
@@ -8830,8 +8830,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6121,
-          59.43004
+          24.61169,
+          59.43018
         ]
       }
     },
@@ -8858,8 +8858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62016,
-          59.42883
+          24.62088,
+          59.42877
         ]
       }
     },
@@ -8872,8 +8872,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61929,
-          59.42921
+          24.6184,
+          59.42926
         ]
       }
     },
@@ -9152,8 +9152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61243,
-          59.43564
+          24.61289,
+          59.43551
         ]
       }
     },
@@ -9166,8 +9166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.611,
-          59.4362
+          24.61159,
+          59.43603
         ]
       }
     },
@@ -9866,8 +9866,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75768,
-          59.43623
+          24.75757,
+          59.43653
         ]
       }
     },
@@ -9950,8 +9950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.78353,
-          59.43865
+          24.78426,
+          59.43864
         ]
       }
     },
@@ -10076,8 +10076,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75272,
-          59.43474
+          24.75237,
+          59.43459
         ]
       }
     },
@@ -10342,7 +10342,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7583,
+          24.75864,
           59.43563
         ]
       }
@@ -10692,8 +10692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8109,
-          59.40794
+          24.81037,
+          59.40792
         ]
       }
     },
@@ -11420,8 +11420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.77531,
-          59.42796
+          24.77482,
+          59.42779
         ]
       }
     },
@@ -11478,6 +11478,20 @@
         "coordinates": [
           24.79787,
           59.4451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6296",
+        "Name": "Lauluväljak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80003,
+          59.44604
         ]
       }
     },
@@ -12260,8 +12274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76061,
-          59.44421
+          24.76015,
+          59.44455
         ]
       }
     },
@@ -12890,8 +12904,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73677,
-          59.41341
+          24.73718,
+          59.41367
         ]
       }
     },
@@ -13380,8 +13394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75954,
-          59.41759
+          24.75983,
+          59.4175
         ]
       }
     },
@@ -14360,8 +14374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71795,
-          59.42576
+          24.71774,
+          59.42556
         ]
       }
     },
@@ -15116,8 +15130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83782,
-          59.42697
+          24.83769,
+          59.42719
         ]
       }
     },
@@ -15502,6 +15516,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6314",
+        "Name": "Mustakivi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87455,
+          59.4428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1444",
         "Name": "Paesilla"
       },
@@ -15564,8 +15592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88949,
-          59.44475
+          24.88995,
+          59.44479
         ]
       }
     },
@@ -15844,8 +15872,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88037,
-          59.44953
+          24.87972,
+          59.44962
         ]
       }
     },
@@ -15858,7 +15886,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88098,
+          24.88133,
           59.44932
         ]
       }
@@ -16348,7 +16376,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83831,
+          24.83799,
           59.45219
         ]
       }
@@ -16628,8 +16656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79219,
-          59.43072
+          24.7924,
+          59.43096
         ]
       }
     },
@@ -16642,8 +16670,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79267,
-          59.43101
+          24.79306,
+          59.43111
         ]
       }
     },
@@ -16670,8 +16698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79785,
-          59.43348
+          24.7983,
+          59.43415
         ]
       }
     },
@@ -17216,8 +17244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88976,
-          59.45262
+          24.88906,
+          59.4528
         ]
       }
     },
@@ -17860,8 +17888,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.80691,
-          59.44029
+          24.80628,
+          59.44005
         ]
       }
     },
@@ -17874,8 +17902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.80795,
-          59.44073
+          24.8086,
+          59.441
         ]
       }
     },
@@ -18476,8 +18504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66084,
-          59.39956
+          24.6607,
+          59.39987
         ]
       }
     },
@@ -18896,8 +18924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.64384,
-          59.39423
+          24.64372,
+          59.39405
         ]
       }
     },
@@ -18967,7 +18995,7 @@
         "type": "Point",
         "coordinates": [
           24.67246,
-          59.41413
+          59.41396
         ]
       }
     },
@@ -19120,8 +19148,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.67953,
-          59.39999
+          24.67858,
+          59.40048
         ]
       }
     },
@@ -19400,8 +19428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70589,
-          59.39894
+          24.70603,
+          59.39945
         ]
       }
     },
@@ -19960,8 +19988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.67528,
-          59.37943
+          24.67498,
+          59.37985
         ]
       }
     },
@@ -20086,8 +20114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63194,
-          59.37024
+          24.63206,
+          59.3704
         ]
       }
     },
@@ -20128,8 +20156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62924,
-          59.36528
+          24.62912,
+          59.36513
         ]
       }
     },
@@ -20170,8 +20198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63499,
-          59.37599
+          24.63486,
+          59.37577
         ]
       }
     },
@@ -20268,8 +20296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71926,
-          59.38828
+          24.71944,
+          59.38841
         ]
       }
     },
@@ -20296,8 +20324,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71791,
-          59.38707
+          24.71771,
+          59.38686
         ]
       }
     },
@@ -20310,8 +20338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71801,
-          59.36656
+          24.71798,
+          59.36683
         ]
       }
     },
@@ -20324,8 +20352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71768,
-          59.36694
+          24.71757,
+          59.36605
         ]
       }
     },
@@ -20968,8 +20996,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.64338,
-          59.37284
+          24.64286,
+          59.37258
         ]
       }
     },
@@ -21346,8 +21374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6382,
-          59.3649
+          24.63753,
+          59.36479
         ]
       }
     },
@@ -21360,8 +21388,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63642,
-          59.36482
+          24.63599,
+          59.3648
         ]
       }
     },
@@ -21444,8 +21472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6438,
-          59.36602
+          24.64425,
+          59.36608
         ]
       }
     },
@@ -21486,8 +21514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.65187,
-          59.36775
+          24.65218,
+          59.36781
         ]
       }
     },
@@ -21542,8 +21570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72597,
-          59.37562
+          24.7255,
+          59.37563
         ]
       }
     },
@@ -21626,8 +21654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74294,
-          59.37627
+          24.74244,
+          59.37628
         ]
       }
     },
@@ -21684,6 +21712,34 @@
         "coordinates": [
           24.72039,
           59.37557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6303",
+        "Name": "Liivametsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73293,
+          59.38925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6304",
+        "Name": "Liivametsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73314,
+          59.38856
         ]
       }
     },
@@ -21892,7 +21948,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83869,
+          24.8387,
           59.46846
         ]
       }
@@ -21920,8 +21976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.87714,
-          59.47126
+          24.87773,
+          59.47131
         ]
       }
     },
@@ -21948,8 +22004,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.86614,
-          59.46792
+          24.8661,
+          59.4679
         ]
       }
     },
@@ -21976,8 +22032,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88489,
-          59.47256
+          24.88523,
+          59.4726
         ]
       }
     },
@@ -22172,8 +22228,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84129,
-          59.48675
+          24.84178,
+          59.4865
         ]
       }
     },
@@ -22200,8 +22256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84042,
-          59.48074
+          24.84016,
+          59.48037
         ]
       }
     },
@@ -22214,8 +22270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84091,
-          59.48139
+          24.84098,
+          59.48105
         ]
       }
     },
@@ -22242,8 +22298,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83382,
-          59.46721
+          24.83392,
+          59.46724
         ]
       }
     },
@@ -22312,8 +22368,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.91241,
-          59.47294
+          24.91191,
+          59.47287
         ]
       }
     },
@@ -22326,8 +22382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.91341,
-          59.47323
+          24.91356,
+          59.4732
         ]
       }
     },
@@ -22340,8 +22396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.90873,
-          59.46943
+          24.9084,
+          59.46914
         ]
       }
     },
@@ -22354,8 +22410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.90891,
-          59.46954
+          24.90923,
+          59.4699
         ]
       }
     },
@@ -22466,8 +22522,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.90515,
-          59.46076
+          24.90436,
+          59.46178
         ]
       }
     },
@@ -22480,8 +22536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88451,
-          59.48401
+          24.8848,
+          59.48375
         ]
       }
     },
@@ -22522,8 +22578,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.90281,
-          59.46919
+          24.90283,
+          59.46911
         ]
       }
     },
@@ -22536,8 +22592,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8822,
-          59.48624
+          24.88224,
+          59.48607
         ]
       }
     },
@@ -22564,8 +22620,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88012,
-          59.49042
+          24.88048,
+          59.48981
         ]
       }
     },
@@ -22606,8 +22662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89703,
-          59.47414
+          24.8964,
+          59.47483
         ]
       }
     },
@@ -22620,8 +22676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89889,
-          59.47246
+          24.89935,
+          59.47208
         ]
       }
     },
@@ -22704,8 +22760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85093,
-          59.47951
+          24.85033,
+          59.4792
         ]
       }
     },
@@ -22732,8 +22788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.86055,
-          59.48402
+          24.86021,
+          59.48373
         ]
       }
     },
@@ -22858,8 +22914,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8756,
-          59.48969
+          24.87594,
+          59.48974
         ]
       }
     },
@@ -22900,8 +22956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83482,
-          59.48993
+          24.83544,
+          59.48978
         ]
       }
     },
@@ -22956,8 +23012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.82975,
-          59.49181
+          24.82922,
+          59.49211
         ]
       }
     },
@@ -22970,8 +23026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8292,
-          59.49239
+          24.82891,
+          59.49272
         ]
       }
     },
@@ -23082,8 +23138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89062,
-          59.48104
+          24.89083,
+          59.48138
         ]
       }
     },
@@ -23208,8 +23264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74673,
-          59.44641
+          24.74644,
+          59.4467
         ]
       }
     },
@@ -23264,8 +23320,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72308,
-          59.4508
+          24.72357,
+          59.45088
         ]
       }
     },
@@ -23278,8 +23334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72722,
-          59.45115
+          24.72657,
+          59.45123
         ]
       }
     },
@@ -24014,6 +24070,62 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6306",
+        "Name": "Uus peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6839,
+          59.45871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6307",
+        "Name": "Uus peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.685,
+          59.45815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6308",
+        "Name": "Uus peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67744,
+          59.46057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6309",
+        "Name": "Uus peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6892,
+          59.45605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14382",
         "Name": "Paagi"
       },
@@ -24440,8 +24552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71748,
-          59.43766
+          24.71715,
+          59.43787
         ]
       }
     },
@@ -24468,8 +24580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71336,
-          59.44159
+          24.71351,
+          59.44145
         ]
       }
     },
@@ -24972,8 +25084,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72887,
-          59.44765
+          24.72953,
+          59.44738
         ]
       }
     },
