@@ -3622,8 +3622,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85225,
-          59.38692
+          24.85085,
+          59.38721
         ]
       }
     },
@@ -9250,8 +9250,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.57258,
-          59.43824
+          24.5721,
+          59.43821
         ]
       }
     },
@@ -16189,7 +16189,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1426",
-        "Name": "Pae"
+        "Name": "Majaka põik"
       },
       "geometry": {
         "type": "Point",
@@ -23700,6 +23700,62 @@
         "coordinates": [
           24.71325,
           59.44085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6354",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70409,
+          59.45308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6355",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7043,
+          59.45319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6356",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70956,
+          59.45018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6357",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70995,
+          59.4496
         ]
       }
     },
