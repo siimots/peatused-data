@@ -1628,6 +1628,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6369",
+        "Name": "Loo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94575,
+          59.43499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6326",
         "Name": "Kuu"
       },
