@@ -1334,14 +1334,28 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6369",
+        "Name": "Loo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94575,
+          59.43499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5344",
         "Name": "Loo"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.94571,
-          59.43492
+          24.94567,
+          59.43493
         ]
       }
     },
@@ -1628,20 +1642,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6369",
-        "Name": "Loo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.94575,
-          59.43499
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6326",
         "Name": "Kuu"
       },
@@ -1720,6 +1720,20 @@
         "coordinates": [
           24.84286,
           59.3027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6374",
+        "Name": "Kiili kool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84296,
+          59.30264
         ]
       }
     },
@@ -3664,8 +3678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81282,
-          59.37618
+          24.81245,
+          59.37609
         ]
       }
     },
@@ -3678,8 +3692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8132,
-          59.37623
+          24.81335,
+          59.37627
         ]
       }
     },
@@ -4336,8 +4350,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84219,
-          59.37368
+          24.84313,
+          59.37394
         ]
       }
     },
@@ -9700,6 +9714,20 @@
         "coordinates": [
           24.63655,
           59.41275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6372",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75297,
+          59.44191
         ]
       }
     },
@@ -23532,6 +23560,20 @@
         "coordinates": [
           24.71431,
           59.45005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6370",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73788,
+          59.45051
         ]
       }
     },
