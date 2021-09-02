@@ -6808,34 +6808,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "9475",
-        "Name": "Metsa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.60759,
-          59.35352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9476",
-        "Name": "Metsa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.60779,
-          59.35332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "9469",
         "Name": "Tammemäe"
       },
@@ -7824,6 +7796,34 @@
         "coordinates": [
           24.62355,
           59.35123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9475",
+        "Name": "Metsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6061,
+          59.35389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9476",
+        "Name": "Metsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60711,
+          59.3535
         ]
       }
     },
@@ -24820,6 +24820,20 @@
         "coordinates": [
           24.74068,
           59.44121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6396",
+        "Name": "Balti jaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73978,
+          59.44085
         ]
       }
     },
