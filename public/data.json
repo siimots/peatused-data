@@ -1656,62 +1656,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6326",
-        "Name": "Kuu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76719,
-          59.31728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6328",
-        "Name": "Kuu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76744,
-          59.31679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6325",
-        "Name": "Saustimõisa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78473,
-          59.30708
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6327",
-        "Name": "Saustimõisa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78701,
-          59.30771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "12988",
         "Name": "Kangru"
       },
@@ -1958,6 +1902,62 @@
         "coordinates": [
           24.81264,
           59.33861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6326",
+        "Name": "Kuu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76719,
+          59.31728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6328",
+        "Name": "Kuu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76744,
+          59.31679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6325",
+        "Name": "Saustimõisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78473,
+          59.30708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6327",
+        "Name": "Saustimõisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78701,
+          59.30771
         ]
       }
     },
@@ -3608,8 +3608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81035,
-          59.3727
+          24.81041,
+          59.37264
         ]
       }
     },
@@ -3692,8 +3692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81245,
-          59.37609
+          24.81242,
+          59.37608
         ]
       }
     },
@@ -3706,8 +3706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81335,
-          59.37627
+          24.81346,
+          59.3763
         ]
       }
     },
