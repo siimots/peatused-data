@@ -1522,8 +1522,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.94465,
-          59.41601
+          24.94504,
+          59.41549
         ]
       }
     },
@@ -4344,6 +4344,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6226",
+        "Name": "Ööbiku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84232,
+          59.37386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6227",
         "Name": "Ööbiku"
       },
@@ -4352,20 +4366,6 @@
         "coordinates": [
           24.84322,
           59.37395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6226",
-        "Name": "Ööbiku tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84232,
-          59.37386
         ]
       }
     },
@@ -5352,6 +5352,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6418",
+        "Name": "Uusmäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66197,
+          59.29191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "34000",
         "Name": "Männiku"
       },
@@ -6242,6 +6256,20 @@
         "coordinates": [
           24.65848,
           59.29362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6417",
+        "Name": "Arunõmme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64628,
+          59.33482
         ]
       }
     },
@@ -7844,20 +7872,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6244",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.56086,
-          59.4338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "12953",
         "Name": "Keskpäeva tee"
       },
@@ -8034,34 +8048,6 @@
         "coordinates": [
           24.65454,
           59.41728
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6291",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.55749,
-          59.43233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6292",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.55736,
-          59.43238
         ]
       }
     },
@@ -9034,20 +9020,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6269",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.56762,
-          59.4368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6268",
         "Name": "Rannaniidu"
       },
@@ -9266,20 +9238,6 @@
         "coordinates": [
           24.62726,
           59.43693
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6243",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.57266,
-          59.43749
         ]
       }
     },
@@ -9728,20 +9686,6 @@
         "coordinates": [
           24.63655,
           59.41275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6372",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75297,
-          59.44191
         ]
       }
     },
@@ -11260,34 +11204,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1698",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78112,
-          59.43972
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1701",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77088,
-          59.43831
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1230",
         "Name": "F. R. Kreutzwaldi"
       },
@@ -11798,8 +11714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73206,
-          59.40564
+          24.73194,
+          59.40561
         ]
       }
     },
@@ -11980,8 +11896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73956,
-          59.41544
+          24.73946,
+          59.41541
         ]
       }
     },
@@ -13100,8 +13016,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7379,
-          59.43956
+          24.73779,
+          59.43953
         ]
       }
     },
@@ -14354,34 +14270,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6330",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7107,
-          59.43076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6331",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71044,
-          59.43106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1133",
         "Name": "Hipodroom"
       },
@@ -14598,8 +14486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70867,
-          59.41459
+          24.70863,
+          59.41465
         ]
       }
     },
@@ -16846,34 +16734,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6345",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78953,
-          59.42821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6346",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78953,
-          59.42844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1433",
         "Name": "Asunduse"
       },
@@ -17756,34 +17616,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6336",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81033,
-          59.42309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6340",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80172,
-          59.42312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1364",
         "Name": "Dvigatel"
       },
@@ -18106,20 +17938,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6338",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78923,
-          59.42181
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1482",
         "Name": "Ussimäe tee"
       },
@@ -18226,34 +18044,6 @@
         "coordinates": [
           24.80251,
           59.43812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6337",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80189,
-          59.42037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6339",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81146,
-          59.4203
         ]
       }
     },
@@ -19576,34 +19366,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6209",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64577,
-          59.39857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6210",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64581,
-          59.39854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "68",
         "Name": "Kivinuka"
       },
@@ -19940,62 +19702,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6172",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66023,
-          59.39766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6173",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66105,
-          59.39756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5793",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65669,
-          59.39633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5794",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6569,
-          59.39701
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "883",
         "Name": "Üliõpilaste tee"
       },
@@ -20296,8 +20002,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.67247,
-          59.38305
+          24.67246,
+          59.38311
         ]
       }
     },
@@ -20716,8 +20422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72157,
-          59.39105
+          24.72158,
+          59.39111
         ]
       }
     },
@@ -20912,8 +20618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.65534,
-          59.37868
+          24.65546,
+          59.3787
         ]
       }
     },
@@ -21178,8 +20884,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66414,
-          59.38147
+          24.66424,
+          59.38143
         ]
       }
     },
@@ -21220,8 +20926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63109,
-          59.35603
+          24.63116,
+          59.35608
         ]
       }
     },
@@ -23384,34 +23090,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6279",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84022,
-          59.45991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6280",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84017,
-          59.45979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1532",
         "Name": "Kose"
       },
@@ -23580,20 +23258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6370",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73788,
-          59.45051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4554",
         "Name": "Kalarand"
       },
@@ -23628,8 +23292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7363,
-          59.45027
+          24.73642,
+          59.45029
         ]
       }
     },
@@ -23776,56 +23440,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6354",
+        "SiriID": "5794",
         "Name": "Ajutine peatus"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70409,
-          59.45308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6355",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7043,
-          59.45319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6356",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70956,
-          59.45018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6357",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70995,
-          59.4496
+          24.70252,
+          59.45359
         ]
       }
     },
@@ -24540,6 +24162,20 @@
         "coordinates": [
           24.69958,
           59.46497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5793",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70196,
+          59.45389
         ]
       }
     },
@@ -26218,8 +25854,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83507,
-          59.51249
+          24.83676,
+          59.51463
         ]
       }
     },
