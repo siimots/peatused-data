@@ -1138,6 +1138,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5543",
+        "Name": "Oja tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.00414,
+          59.41538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4253",
         "Name": "Pohla"
       },
@@ -4350,8 +4364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84232,
-          59.37386
+          24.84196,
+          59.37373
         ]
       }
     },
@@ -4364,7 +4378,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.84322,
+          24.84332,
           59.37395
         ]
       }
@@ -6360,6 +6374,62 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6331",
+        "Name": "Makita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60459,
+          59.33881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6336",
+        "Name": "Makita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60229,
+          59.33822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6337",
+        "Name": "Padula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59543,
+          59.33624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6338",
+        "Name": "Padula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5935,
+          59.33581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6193",
         "Name": "Redise"
       },
@@ -6368,6 +6438,34 @@
         "coordinates": [
           24.61368,
           59.34773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6339",
+        "Name": "Räni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56775,
+          59.33015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6340",
+        "Name": "Räni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56633,
+          59.32994
         ]
       }
     },
@@ -9790,62 +9888,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1311",
-        "Name": "Maneeži"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76064,
-          59.43652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1312",
-        "Name": "Maneeži"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76041,
-          59.43605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1307",
-        "Name": "Pronksi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.761,
-          59.4372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1310",
-        "Name": "Pronksi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76219,
-          59.43721
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "34124",
         "Name": "Tallinn-Väike"
       },
@@ -9868,48 +9910,6 @@
         "coordinates": [
           24.74623,
           59.41312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1255",
-        "Name": "Vana-Lõuna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7445,
-          59.42164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1256",
-        "Name": "Vana-Lõuna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74394,
-          59.42164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3312",
-        "Name": "Vana-Lõuna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74421,
-          59.42148
         ]
       }
     },
@@ -11106,6 +11106,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1311",
+        "Name": "Maneeži"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76064,
+          59.43652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1312",
+        "Name": "Maneeži"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76041,
+          59.43605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6322",
         "Name": "Admiraliteedi"
       },
@@ -11428,6 +11456,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1307",
+        "Name": "Pronksi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.761,
+          59.4372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1308",
         "Name": "Pronksi"
       },
@@ -11450,6 +11492,20 @@
         "coordinates": [
           24.76158,
           59.43711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1310",
+        "Name": "Pronksi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76219,
+          59.43721
         ]
       }
     },
@@ -13256,6 +13312,48 @@
         "coordinates": [
           24.74592,
           59.4228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1255",
+        "Name": "Vana-Lõuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7445,
+          59.42164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1256",
+        "Name": "Vana-Lõuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74394,
+          59.42164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3312",
+        "Name": "Vana-Lõuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74421,
+          59.42148
         ]
       }
     },
@@ -19884,34 +19982,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "10741",
-        "Name": "Pääsküla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64087,
-          59.36936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10742",
-        "Name": "Pääsküla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64186,
-          59.36961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "14651",
         "Name": "Pääsküla Gümnaasium"
       },
@@ -21746,6 +21816,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "10741",
+        "Name": "Pääsküla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64087,
+          59.36936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "10742",
+        "Name": "Pääsküla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64186,
+          59.36961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6303",
         "Name": "Liivametsa"
       },
@@ -21864,8 +21962,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76499,
-          59.3617
+          24.76509,
+          59.36179
         ]
       }
     },
@@ -23160,20 +23258,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5868",
-        "Name": "Linnahall"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75181,
-          59.44402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4560",
         "Name": "Miinisadam"
       },
@@ -24036,6 +24120,20 @@
         "coordinates": [
           24.72241,
           59.44418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5868",
+        "Name": "Linnahall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75181,
+          59.44402
         ]
       }
     },
