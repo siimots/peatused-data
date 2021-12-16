@@ -8200,7 +8200,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63229,
+          24.63217,
           59.40893
         ]
       }
@@ -10308,34 +10308,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5926",
-        "Name": "Vesivärava"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78226,
-          59.43219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5927",
-        "Name": "Vesivärava"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78202,
-          59.43253
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1257",
         "Name": "Gonsiori"
       },
@@ -10470,6 +10442,34 @@
         "coordinates": [
           24.77711,
           59.43307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5926",
+        "Name": "Vesivärava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78226,
+          59.43219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5927",
+        "Name": "Vesivärava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78202,
+          59.43253
         ]
       }
     },
@@ -12422,48 +12422,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "155",
-        "Name": "Kanali tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80627,
-          59.40837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3220",
-        "Name": "Kanali tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80649,
-          59.40778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "206",
-        "Name": "Oomi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81273,
-          59.40266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1264",
         "Name": "Bussijaam"
       },
@@ -12514,6 +12472,34 @@
         "coordinates": [
           24.77695,
           59.42816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "155",
+        "Name": "Kanali tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80627,
+          59.40837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3220",
+        "Name": "Kanali tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80649,
+          59.40778
         ]
       }
     },
@@ -12710,6 +12696,20 @@
         "coordinates": [
           24.81052,
           59.40489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "206",
+        "Name": "Oomi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81273,
+          59.40266
         ]
       }
     },
@@ -13374,6 +13374,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1334",
+        "Name": "Liivalaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7484,
+          59.42744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "3566",
         "Name": "Töökoja"
       },
@@ -13402,34 +13416,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "75",
-        "Name": "Veduri"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75396,
-          59.41616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1334",
-        "Name": "Liivalaia"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7484,
-          59.42744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1355",
         "Name": "Varre"
       },
@@ -13452,6 +13438,20 @@
         "coordinates": [
           24.75182,
           59.41827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "75",
+        "Name": "Veduri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75396,
+          59.41616
         ]
       }
     },
@@ -19708,8 +19708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.68427,
-          59.39885
+          24.68416,
+          59.39884
         ]
       }
     },
@@ -21332,8 +21332,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70436,
-          59.38261
+          24.70424,
+          59.38263
         ]
       }
     },
@@ -21844,6 +21844,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1047",
+        "Name": "Kaarla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7565,
+          59.36756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1048",
+        "Name": "Kaarla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75705,
+          59.36705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6303",
         "Name": "Liivametsa"
       },
@@ -21894,34 +21922,6 @@
         "coordinates": [
           24.74613,
           59.37702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1047",
-        "Name": "Kaarla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7565,
-          59.36756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1048",
-        "Name": "Kaarla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75705,
-          59.36705
         ]
       }
     },
@@ -25168,8 +25168,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.71167,
-          59.4538
+          24.71169,
+          59.45386
         ]
       }
     },
