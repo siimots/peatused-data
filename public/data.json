@@ -6388,6 +6388,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5591",
+        "Name": "Vana-Keila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56009,
+          59.31275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5578",
+        "Name": "Välja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.52251,
+          59.31688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "13181",
         "Name": "Laagri alevik"
       },
@@ -6522,6 +6550,34 @@
         "coordinates": [
           24.61255,
           59.34414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5593",
+        "Name": "Vana-Arula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53404,
+          59.31359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5590",
+        "Name": "Vana-Keila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56144,
+          59.31244
         ]
       }
     },
@@ -7556,8 +7612,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.55625,
-          59.31129
+          24.55562,
+          59.31059
         ]
       }
     },
@@ -7584,8 +7640,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.5341,
-          59.3139
+          24.53653,
+          59.31355
         ]
       }
     },
