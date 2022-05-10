@@ -5226,20 +5226,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4441",
-        "Name": "Allika-likvideeritud"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.8335,
-          59.3856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4438",
         "Name": "Annuse"
       },
@@ -6388,34 +6374,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5591",
-        "Name": "Vana-Keila"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.56009,
-          59.31275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5578",
-        "Name": "Välja"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.52251,
-          59.31688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "13181",
         "Name": "Laagri alevik"
       },
@@ -6578,6 +6536,34 @@
         "coordinates": [
           24.56144,
           59.31244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5591",
+        "Name": "Vana-Keila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56009,
+          59.31275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5578",
+        "Name": "Välja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.52251,
+          59.31688
         ]
       }
     },
@@ -24132,8 +24118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70384,
-          59.45343
+          24.70437,
+          59.45332
         ]
       }
     },
@@ -25518,8 +25504,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83613,
-          59.50074
+          24.83577,
+          59.50059
         ]
       }
     },
@@ -25618,20 +25604,6 @@
         "coordinates": [
           24.88334,
           59.54397
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "227",
-        "Name": "Lageda tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85495,
-          59.50554
         ]
       }
     },
@@ -26436,34 +26408,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "9708",
-        "Name": "Liivaranna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79494,
-          59.53874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9709",
-        "Name": "Liivaranna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79448,
-          59.53878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "9670",
         "Name": "Vardi"
       },
@@ -26582,8 +26526,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7935,
-          59.5367
+          24.79345,
+          59.53669
         ]
       }
     },
@@ -26876,8 +26820,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88532,
-          59.5296
+          24.88553,
+          59.52971
         ]
       }
     },
@@ -26890,8 +26834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88575,
-          59.52973
+          24.88589,
+          59.52965
         ]
       }
     },
@@ -27074,20 +27018,6 @@
         "coordinates": [
           24.82621,
           59.50565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5828",
-        "Name": "Poepeatus AJUTINE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.82719,
-          59.50557
         ]
       }
     }
