@@ -1251,7 +1251,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "14440",
-        "Name": "Veski põik"
+        "Name": "Veski"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1265,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "14442",
-        "Name": "Veski põik"
+        "Name": "Veski"
       },
       "geometry": {
         "type": "Point",
@@ -3757,7 +3757,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6016",
-        "Name": "Läike tee - nimeta"
+        "Name": "Läike tee"
       },
       "geometry": {
         "type": "Point",
@@ -4890,20 +4890,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4531",
-        "Name": "Lagedi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93913,
-          59.40353
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4534",
         "Name": "Lagedi kool"
       },
@@ -5388,6 +5374,20 @@
         "coordinates": [
           24.90175,
           59.34051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4531",
+        "Name": "Lagedi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93957,
+          59.40336
         ]
       }
     },
@@ -9980,6 +9980,48 @@
         "coordinates": [
           24.74018,
           59.41995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4441",
+        "Name": "Reisisadama D-terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76401,
+          59.44341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4515",
+        "Name": "Reisisadama D-terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76468,
+          59.44353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4516",
+        "Name": "Reisisadama D-terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76336,
+          59.44329
         ]
       }
     },
