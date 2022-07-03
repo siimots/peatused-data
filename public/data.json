@@ -5408,6 +5408,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5759",
+        "Name": "Uusmäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66111,
+          59.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "34000",
         "Name": "Männiku"
       },
@@ -15670,6 +15684,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5698",
+        "Name": "Ülemiste linnak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79928,
+          59.4206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1394",
         "Name": "Kuuli"
       },
@@ -21452,6 +21480,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "967",
+        "Name": "Vääna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65177,
+          59.3843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1006",
         "Name": "Haava"
       },
@@ -22160,20 +22202,6 @@
         "coordinates": [
           24.66446,
           59.3833
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "967",
-        "Name": "Vääna"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65382,
-          59.38372
         ]
       }
     },
@@ -23132,6 +23160,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5828",
+        "Name": "Mähe aedlinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.88085,
+          59.49112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1579",
         "Name": "Oblika tee"
       },
@@ -23378,6 +23420,20 @@
         "coordinates": [
           24.89083,
           59.48138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5772",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7387,
+          59.45076
         ]
       }
     },
@@ -23658,6 +23714,20 @@
         "coordinates": [
           24.71322,
           59.44085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5697",
+        "Name": "Rannapargi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68718,
+          59.44184
         ]
       }
     },
