@@ -3308,6 +3308,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6347",
+        "Name": "IKEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82581,
+          59.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "108",
         "Name": "Itella"
       },
@@ -3706,8 +3720,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85145,
-          59.38725
+          24.85205,
+          59.38702
         ]
       }
     },
@@ -3818,8 +3832,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83009,
-          59.389
+          24.83369,
+          59.39166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6453",
+        "Name": "Näkinurga tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96619,
+          59.37666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6454",
+        "Name": "Näkinurga tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.966,
+          59.37653
         ]
       }
     },
@@ -4086,6 +4128,20 @@
         "coordinates": [
           24.84429,
           59.38629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6452",
+        "Name": "Tammi tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85045,
+          59.38757
         ]
       }
     },
@@ -14292,20 +14348,6 @@
         "coordinates": [
           24.70343,
           59.4284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1118",
-        "Name": "Löwenruh"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.69394,
-          59.41759
         ]
       }
     },
