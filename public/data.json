@@ -8172,8 +8172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63434,
-          59.40463
+          24.63227,
+          59.40469
         ]
       }
     },
@@ -8242,7 +8242,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62897,
+          24.62981,
           59.40475
         ]
       }
@@ -13366,8 +13366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76493,
-          59.44283
+          24.7666,
+          59.442
         ]
       }
     },
@@ -13436,8 +13436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76675,
-          59.4431
+          24.76528,
+          59.44262
         ]
       }
     },
@@ -15816,8 +15816,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.88178,
-          59.44382
+          24.88384,
+          59.44418
         ]
       }
     },
@@ -20822,6 +20822,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6472",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62291,
+          59.36513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6320",
         "Name": "Toome puiestee"
       },
@@ -21404,6 +21418,20 @@
         "coordinates": [
           24.67112,
           59.38303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6471",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62405,
+          59.36527
         ]
       }
     },
