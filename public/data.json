@@ -3308,20 +3308,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6347",
-        "Name": "IKEA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.82581,
-          59.34
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "108",
         "Name": "Itella"
       },
@@ -3484,6 +3470,20 @@
         "coordinates": [
           24.90214,
           59.34936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6347",
+        "Name": "Kangrumetsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82581,
+          59.34
         ]
       }
     },
@@ -3728,20 +3728,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "235",
-        "Name": "Lootsi aiandusühistu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.94973,
-          59.37682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5730",
         "Name": "Lõo tee"
       },
@@ -3832,8 +3818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.83369,
-          59.39166
+          24.83455,
+          59.39155
         ]
       }
     },
@@ -3841,13 +3827,13 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6453",
-        "Name": "Näkinurga tee"
+        "Name": "Näkinurga"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           24.96619,
-          59.37666
+          59.37665
         ]
       }
     },
@@ -3855,13 +3841,13 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6454",
-        "Name": "Näkinurga tee"
+        "Name": "Näkinurga"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.966,
-          59.37653
+          24.96602,
+          59.37666
         ]
       }
     },
@@ -4135,13 +4121,13 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6452",
-        "Name": "Tammi tee"
+        "Name": "Tammi"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85045,
-          59.38757
+          24.84858,
+          59.38805
         ]
       }
     },
@@ -6444,6 +6430,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6449",
+        "Name": "Kauri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.58728,
+          59.36466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6450",
+        "Name": "Kotka lasteaed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57977,
+          59.36209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "13181",
         "Name": "Laagri alevik"
       },
@@ -6494,6 +6508,20 @@
         "coordinates": [
           24.60229,
           59.33822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6448",
+        "Name": "Möldre kool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59765,
+          59.3537
         ]
       }
     },
@@ -12577,7 +12605,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1228",
-        "Name": "Reisisadama A-Terminal"
+        "Name": "Reisisadama A-terminal"
       },
       "geometry": {
         "type": "Point",
@@ -13360,20 +13388,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1229",
-        "Name": "Reisisadam D-terminal"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7666,
-          59.442
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4097",
         "Name": "Reisisadam D-terminal"
       },
@@ -13396,6 +13410,20 @@
         "coordinates": [
           24.76494,
           59.44283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1229",
+        "Name": "Reisisadama D-terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76501,
+          59.44277
         ]
       }
     },
@@ -27200,6 +27228,20 @@
         "coordinates": [
           24.82621,
           59.50565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6477",
+        "Name": "Poepeatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82755,
+          59.50543
         ]
       }
     }
