@@ -2992,8 +2992,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92231,
-          59.45101
+          24.92131,
+          59.45144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6521",
+        "Name": "Iru elektrijaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92171,
+          59.45019
         ]
       }
     },
@@ -3006,8 +3020,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.91959,
-          59.45527
+          24.91794,
+          59.45871
         ]
       }
     },
@@ -3020,8 +3034,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.91943,
-          59.45521
+          24.91816,
+          59.45777
         ]
       }
     },
@@ -6562,8 +6576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.58728,
-          59.36466
+          24.58717,
+          59.36461
         ]
       }
     },
@@ -6576,8 +6590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.57977,
-          59.36209
+          24.57971,
+          59.36216
         ]
       }
     },
@@ -6646,8 +6660,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.59765,
-          59.3537
+          24.59764,
+          59.35368
         ]
       }
     },
@@ -6696,28 +6710,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6339",
-        "Name": "Räni"
+        "SiriID": "6522",
+        "Name": "Saunapunkt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.56775,
-          59.33015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6340",
-        "Name": "Räni"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.56633,
-          59.32994
+          24.58216,
+          59.33803
         ]
       }
     },
@@ -6744,8 +6744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.53404,
-          59.31359
+          24.53405,
+          59.31363
         ]
       }
     },
@@ -6758,8 +6758,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.56144,
-          59.31244
+          24.56146,
+          59.31245
         ]
       }
     },
@@ -6772,7 +6772,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.56009,
+          24.56008,
           59.31275
         ]
       }
@@ -6786,7 +6786,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.52251,
+          24.52252,
           59.31688
         ]
       }
@@ -7222,6 +7222,34 @@
         "coordinates": [
           24.56038,
           59.32541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6339",
+        "Name": "Räni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56775,
+          59.33015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6340",
+        "Name": "Räni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56633,
+          59.32994
         ]
       }
     },
@@ -7844,20 +7872,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4955",
-        "Name": "Tõkke"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.53653,
-          59.31355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4957",
         "Name": "Tõkke"
       },
@@ -7894,6 +7908,20 @@
         "coordinates": [
           24.49981,
           59.3171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4955",
+        "Name": "Vana-Arula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53653,
+          59.31355
         ]
       }
     },
@@ -24098,20 +24126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1147",
-        "Name": "Kopli"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66672,
-          59.46172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1148",
         "Name": "Kopli"
       },
@@ -24574,6 +24588,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5267",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72597,
+          59.44532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5868",
         "Name": "Linnahall"
       },
@@ -24818,8 +24846,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7206,
-          59.47166
+          24.71967,
+          59.47111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5263",
+        "Name": "Pikakari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71952,
+          59.47115
         ]
       }
     },
@@ -25520,6 +25562,20 @@
         "coordinates": [
           24.72806,
           59.4362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5268",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72538,
+          59.43841
         ]
       }
     },
