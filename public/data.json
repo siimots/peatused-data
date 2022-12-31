@@ -5002,6 +5002,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4531",
+        "Name": "Lagedi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93957,
+          59.40336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4534",
         "Name": "Lagedi kool"
       },
@@ -5492,14 +5506,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4531",
-        "Name": "Lagedi"
+        "SiriID": "6534",
+        "Name": "Saku Gümnaasium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.93957,
-          59.40336
+          24.67216,
+          59.30373
         ]
       }
     },
@@ -5584,20 +5598,6 @@
         "coordinates": [
           24.67698,
           59.30141
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4272",
-        "Name": "Saku Gümnaasium"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6725,
-          59.30281
         ]
       }
     },
@@ -5773,7 +5773,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "4299",
-        "Name": "Murumäe"
+        "Name": "Murumäe tee"
       },
       "geometry": {
         "type": "Point",
@@ -5870,6 +5870,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "13227",
+        "Name": "Männituka tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64127,
+          59.30897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4293",
+        "Name": "Nurme tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66197,
+          59.30081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4294",
         "Name": "Nurme tee"
       },
@@ -5920,6 +5948,20 @@
         "coordinates": [
           24.64628,
           59.30966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4296",
+        "Name": "Paju tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64598,
+          59.30951
         ]
       }
     },
@@ -5982,14 +6024,28 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5025",
-        "Name": "Murimäe"
+        "SiriID": "12709",
+        "Name": "Kurvi"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63384,
-          59.30753
+          24.63847,
+          59.30262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12710",
+        "Name": "Kurvi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64046,
+          59.30218
         ]
       }
     },
@@ -6018,6 +6074,20 @@
         "coordinates": [
           24.64069,
           59.32079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5025",
+        "Name": "Murumäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63384,
+          59.30753
         ]
       }
     },
@@ -6500,70 +6570,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13227",
-        "Name": "Männituka tee"
+        "SiriID": "4272",
+        "Name": "Saku Gümnaasium"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.64127,
-          59.30897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4293",
-        "Name": "Nurme tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66197,
-          59.30081
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4296",
-        "Name": "Paju tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64598,
-          59.30951
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "12709",
-        "Name": "Kurvi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63847,
-          59.30262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "12710",
-        "Name": "Kurvi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64046,
-          59.30218
+          24.67225,
+          59.30369
         ]
       }
     },
@@ -6592,6 +6606,48 @@
         "coordinates": [
           24.57971,
           59.36216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6530",
+        "Name": "Käokeele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59798,
+          59.36503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6531",
+        "Name": "Käokeele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59712,
+          59.36489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13181",
+        "Name": "Laagri alevik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61049,
+          59.35148
         ]
       }
     },
@@ -6788,6 +6844,34 @@
         "coordinates": [
           24.52252,
           59.31688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6528",
+        "Name": "Väriheina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.603,
+          59.36396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6529",
+        "Name": "Väriheina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60311,
+          59.36376
         ]
       }
     },
@@ -7696,8 +7780,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.60721,
-          59.33567
+          24.60517,
+          59.33426
         ]
       }
     },
@@ -8300,20 +8384,6 @@
         "coordinates": [
           24.62355,
           59.35123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "13181",
-        "Name": "Laagri alevik"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.61049,
-          59.35148
         ]
       }
     },
@@ -9432,8 +9502,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61169,
-          59.43018
+          24.60784,
+          59.4307
         ]
       }
     },
@@ -9446,8 +9516,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61297,
-          59.42984
+          24.60962,
+          59.43022
         ]
       }
     },
@@ -9460,8 +9530,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.62088,
-          59.42877
+          24.62056,
+          59.42876
         ]
       }
     },
@@ -9474,8 +9544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6184,
-          59.42926
+          24.6182,
+          59.42929
         ]
       }
     },
@@ -24594,8 +24664,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72597,
-          59.44532
+          24.72338,
+          59.44534
         ]
       }
     },
