@@ -2908,8 +2908,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92489,
-          59.47935
+          24.9249,
+          59.47934
         ]
       }
     },
@@ -3258,8 +3258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.93111,
-          59.4741
+          24.93063,
+          59.4742
         ]
       }
     },
@@ -3316,6 +3316,34 @@
         "coordinates": [
           25.00294,
           59.38349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6549",
+        "Name": "Kulli küla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.00209,
+          59.38291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6550",
+        "Name": "Kulli küla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.00346,
+          59.38224
         ]
       }
     },
@@ -4428,6 +4456,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6547",
+        "Name": "Viadukti tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87646,
+          59.36125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6548",
+        "Name": "Viadukti tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87739,
+          59.36153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "11529",
         "Name": "Vägeva"
       },
@@ -4966,8 +5022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.95718,
-          59.39939
+          24.95605,
+          59.39987
         ]
       }
     },
@@ -4980,8 +5036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.95742,
-          59.39912
+          24.95778,
+          59.3989
         ]
       }
     },
@@ -5050,8 +5106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.96562,
-          59.39514
+          24.96404,
+          59.39573
         ]
       }
     },
@@ -5604,6 +5660,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4272",
+        "Name": "Saku Gümnaasium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67225,
+          59.30369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9956",
         "Name": "Saku Raudteejaam"
       },
@@ -5990,6 +6060,20 @@
         "coordinates": [
           24.61678,
           59.34141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6544",
+        "Name": "Lukussepa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64876,
+          59.29036
         ]
       }
     },
@@ -6564,20 +6648,6 @@
         "coordinates": [
           24.64478,
           59.34523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4272",
-        "Name": "Saku Gümnaasium"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67225,
-          59.30369
         ]
       }
     },
@@ -7886,6 +7956,62 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6565",
+        "Name": "Kirsimäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63561,
+          59.34837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6566",
+        "Name": "Kirsimäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63535,
+          59.34839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6567",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63169,
+          59.34816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6568",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63177,
+          59.34822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6006",
         "Name": "Suurevälja põik"
       },
@@ -8032,8 +8158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.56938,
-          59.31725
+          24.56968,
+          59.31671
         ]
       }
     },
@@ -15348,6 +15474,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6545",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84745,
+          59.43206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14429",
         "Name": "Lendtähe"
       },
@@ -22508,8 +22648,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.72929,
-          59.39142
+          24.72812,
+          59.39201
         ]
       }
     },
@@ -24658,20 +24798,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5267",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.72338,
-          59.44534
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5868",
         "Name": "Linnahall"
       },
@@ -25828,6 +25954,20 @@
         "coordinates": [
           24.72426,
           59.44987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5267",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72338,
+          59.44534
         ]
       }
     },
