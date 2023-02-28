@@ -4,6 +4,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6556",
+        "Name": "Kõue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49227,
+          59.44304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6569",
+        "Name": "Kõue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49177,
+          59.44288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5835",
         "Name": "Liiva tee"
       },
@@ -5582,8 +5610,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66197,
-          59.29191
+          24.66166,
+          59.29192
         ]
       }
     },
@@ -5596,7 +5624,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66111,
+          24.66153,
           59.29188
         ]
       }
@@ -5960,8 +5988,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66197,
-          59.30081
+          24.66183,
+          59.30084
         ]
       }
     },
@@ -6268,8 +6296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7434,
-          59.30685
+          24.7432,
+          59.30653
         ]
       }
     },
@@ -6282,8 +6310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74451,
-          59.30802
+          24.74421,
+          59.30768
         ]
       }
     },
@@ -6310,8 +6338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.69071,
-          59.32507
+          24.68961,
+          59.32341
         ]
       }
     },
@@ -6324,8 +6352,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.69105,
-          59.32537
+          24.69042,
+          59.32437
         ]
       }
     },
@@ -6338,8 +6366,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70045,
-          59.33854
+          24.70001,
+          59.33813
         ]
       }
     },
@@ -6352,8 +6380,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.70158,
-          59.33974
+          24.70151,
+          59.33966
         ]
       }
     },
@@ -6422,8 +6450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6809,
-          59.31131
+          24.68088,
+          59.31135
         ]
       }
     },
@@ -6436,8 +6464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.68144,
-          59.31139
+          24.68238,
+          59.31179
         ]
       }
     },
@@ -6492,8 +6520,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.66038,
-          59.29612
+          24.66044,
+          59.29605
         ]
       }
     },
@@ -6534,8 +6562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.65848,
-          59.29362
+          24.65853,
+          59.29366
         ]
       }
     },
@@ -12492,20 +12520,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "238",
-        "Name": "Kosmos"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74271,
-          59.42797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1076",
         "Name": "Tallinn-Väike"
       },
@@ -13786,8 +13800,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76501,
-          59.44277
+          24.76529,
+          59.44262
         ]
       }
     },
@@ -13828,8 +13842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.76528,
-          59.44262
+          24.76546,
+          59.44256
         ]
       }
     },
@@ -22684,6 +22698,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6570",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86052,
+          59.45789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1535",
         "Name": "Helmiku tee"
       },
@@ -25280,8 +25308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73887,
-          59.44059
+          24.73941,
+          59.44079
         ]
       }
     },
@@ -25294,8 +25322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73874,
-          59.44081
+          24.73962,
+          59.44085
         ]
       }
     },
@@ -25798,8 +25826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.73777,
-          59.43978
+          24.73649,
+          59.43935
         ]
       }
     },
