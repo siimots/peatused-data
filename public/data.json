@@ -3588,20 +3588,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13084",
-        "Name": "Jüri-Aaviku"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.90214,
-          59.34936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6347",
         "Name": "Kangrumetsa"
       },
@@ -3624,6 +3610,20 @@
         "coordinates": [
           24.91866,
           59.35783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4481",
+        "Name": "Kellamaja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84039,
+          59.33823
         ]
       }
     },
@@ -3678,8 +3678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.82944,
-          59.37867
+          24.82951,
+          59.37875
         ]
       }
     },
@@ -3918,20 +3918,6 @@
         "coordinates": [
           24.96117,
           59.38844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4481",
-        "Name": "Mõisaküla tee"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84039,
-          59.33823
         ]
       }
     },
@@ -4695,7 +4681,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "10497",
-        "Name": "Assaku"
+        "Name": "Graniidi"
       },
       "geometry": {
         "type": "Point",
@@ -5374,34 +5360,6 @@
         "coordinates": [
           24.90229,
           59.41395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4538",
-        "Name": "Metsaveere"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.92055,
-          59.42085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4539",
-        "Name": "Metsaveere"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.92078,
-          59.42092
         ]
       }
     },
@@ -6627,7 +6585,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "4300",
-        "Name": "Kodusalu tee"
+        "Name": "Kodukaare tee"
       },
       "geometry": {
         "type": "Point",
@@ -7984,62 +7942,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6565",
-        "Name": "Kirsimäe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63561,
-          59.34837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6566",
-        "Name": "Kirsimäe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63535,
-          59.34839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6567",
-        "Name": "Sillaku"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63169,
-          59.34816
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6568",
-        "Name": "Sillaku"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63177,
-          59.34822
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6006",
         "Name": "Suurevälja põik"
       },
@@ -8552,6 +8454,34 @@
         "coordinates": [
           24.61095,
           59.35621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6567",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63114,
+          59.34824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6568",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63215,
+          59.34816
         ]
       }
     },
@@ -10728,6 +10658,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "2008",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76009,
+          59.43945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5787",
         "Name": "Siimeoni"
       },
@@ -10932,6 +10876,48 @@
         "coordinates": [
           24.76426,
           59.42085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5482",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76908,
+          59.43595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6565",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76769,
+          59.43286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6566",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7679,
+          59.43271
         ]
       }
     },
@@ -11666,6 +11652,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6575",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77895,
+          59.42786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4319",
         "Name": "Bussijaam"
       },
@@ -12254,6 +12254,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4539",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77529,
+          59.43958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6158",
         "Name": "Lauluväljak"
       },
@@ -12374,6 +12388,20 @@
         "coordinates": [
           24.75011,
           59.44347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6574",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74926,
+          59.43521
         ]
       }
     },
@@ -12514,6 +12542,20 @@
         "coordinates": [
           24.74296,
           59.42902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6577",
+        "Name": "Kosmos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74232,
+          59.42796
         ]
       }
     },
@@ -13464,8 +13506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75188,
-          59.43366
+          24.75182,
+          59.43372
         ]
       }
     },
@@ -13478,8 +13520,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75201,
-          59.43356
+          24.75196,
+          59.43361
         ]
       }
     },
@@ -13506,8 +13548,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75226,
-          59.43342
+          24.75233,
+          59.43337
         ]
       }
     },
@@ -13520,8 +13562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75237,
-          59.43335
+          24.75252,
+          59.43323
         ]
       }
     },
@@ -13534,8 +13576,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75248,
-          59.43327
+          24.75263,
+          59.43316
         ]
       }
     },
@@ -13548,8 +13590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75258,
-          59.4332
+          24.75266,
+          59.43314
         ]
       }
     },
@@ -13760,6 +13802,20 @@
         "coordinates": [
           24.73623,
           59.43212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4538",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77024,
+          59.4396
         ]
       }
     },
