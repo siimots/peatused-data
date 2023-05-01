@@ -5170,48 +5170,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4505",
-        "Name": "Külma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93383,
-          59.38561
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4506",
-        "Name": "Külma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.9328,
-          59.38436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4507",
-        "Name": "Lagedi haigla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.9345,
-          59.39391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4508",
         "Name": "Lagedi haigla"
       },
@@ -5288,8 +5246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92409,
-          59.37228
+          24.92407,
+          59.37227
         ]
       }
     },
@@ -5302,8 +5260,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92454,
-          59.37257
+          24.92496,
+          59.37305
         ]
       }
     },
@@ -5548,6 +5506,48 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4505",
+        "Name": "Külma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93396,
+          59.38573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4506",
+        "Name": "Külma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93346,
+          59.38522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4507",
+        "Name": "Lagedi haigla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93454,
+          59.39426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6534",
         "Name": "Saku Gümnaasium"
       },
@@ -5758,20 +5758,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6138",
-        "Name": "Laagri"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6224,
-          59.34459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4980",
         "Name": "Paunamäe"
       },
@@ -5828,6 +5814,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6138",
+        "Name": "Valdmäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6224,
+          59.34459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4299",
         "Name": "Murumäe tee"
       },
@@ -5843,7 +5843,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5706",
-        "Name": "Karjavärava"
+        "Name": "Karjavärava tee"
       },
       "geometry": {
         "type": "Point",
@@ -5885,7 +5885,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5707",
-        "Name": "Karjavärava"
+        "Name": "Karjavärava tee"
       },
       "geometry": {
         "type": "Point",
@@ -7942,6 +7942,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6567",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63114,
+          59.34824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6568",
+        "Name": "Sillaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63215,
+          59.34816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6006",
         "Name": "Suurevälja põik"
       },
@@ -8454,34 +8482,6 @@
         "coordinates": [
           24.61095,
           59.35621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6567",
-        "Name": "Sillaku"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63114,
-          59.34824
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6568",
-        "Name": "Sillaku"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63215,
-          59.34816
         ]
       }
     },
@@ -10918,6 +10918,20 @@
         "coordinates": [
           24.7679,
           59.43271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6583",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76906,
+          59.43682
         ]
       }
     },
@@ -17790,8 +17804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89745,
-          59.44115
+          24.89914,
+          59.44145
         ]
       }
     },
@@ -19080,6 +19094,20 @@
         "coordinates": [
           24.81085,
           59.42213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6579",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.797,
+          59.42494
         ]
       }
     },
