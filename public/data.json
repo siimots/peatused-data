@@ -2483,7 +2483,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6144",
-        "Name": "Altmetsa"
+        "Name": "Altmetsa-Paemurru"
       },
       "geometry": {
         "type": "Point",
@@ -10686,6 +10686,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6588",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75588,
+          59.44022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6590",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75924,
+          59.43933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1325",
         "Name": "Veerenni"
       },
@@ -17790,8 +17818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89799,
-          59.44105
+          24.898,
+          59.44102
         ]
       }
     },
@@ -17804,8 +17832,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.89914,
-          59.44145
+          24.89908,
+          59.44152
         ]
       }
     },
@@ -25266,8 +25294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75142,
-          59.44383
+          24.74896,
+          59.44409
         ]
       }
     },
