@@ -5170,6 +5170,48 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4505",
+        "Name": "Külma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93396,
+          59.38573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4506",
+        "Name": "Külma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93346,
+          59.38522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4507",
+        "Name": "Lagedi haigla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93454,
+          59.39426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4508",
         "Name": "Lagedi haigla"
       },
@@ -5500,48 +5542,6 @@
         "coordinates": [
           24.90175,
           59.34051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4505",
-        "Name": "Külma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93396,
-          59.38573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4506",
-        "Name": "Külma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93346,
-          59.38522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4507",
-        "Name": "Lagedi haigla"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.93454,
-          59.39426
         ]
       }
     },
@@ -8026,6 +8026,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4953",
+        "Name": "Pähklisalu tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.50185,
+          59.31704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4954",
+        "Name": "Pähklisalu tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49981,
+          59.3171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9951",
         "Name": "Saue tee"
       },
@@ -8048,34 +8076,6 @@
         "coordinates": [
           24.53665,
           59.3134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4953",
-        "Name": "Valingu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.50185,
-          59.31704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4954",
-        "Name": "Valingu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.49981,
-          59.3171
         ]
       }
     },
@@ -16104,6 +16104,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6596",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82028,
+          59.4455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6597",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81779,
+          59.44497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1473",
         "Name": "K. Kärberi"
       },
@@ -18904,6 +18932,34 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6592",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8117,
+          59.42027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6593",
+        "Name": "Ajutine peatus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80146,
+          59.4204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "126",
         "Name": "Lõõtsa"
       },
@@ -19164,6 +19220,20 @@
         "coordinates": [
           24.79699,
           59.42478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6591",
+        "Name": "Ülemiste jaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7937,
+          59.4236
         ]
       }
     },
@@ -25294,8 +25364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74896,
-          59.44409
+          24.74898,
+          59.44412
         ]
       }
     },
