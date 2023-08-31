@@ -4,6 +4,384 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "",
+        "Name": "Saue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54861,
+          59.32467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Jüri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89424,
+          59.35477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Tabasalu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53707,
+          59.42868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Laagri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61199,
+          59.35163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Urda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61206,
+          59.34349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Kulli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.00309,
+          59.38355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Hiiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66998,
+          59.38295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Tallinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66084,
+          59.39956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Järve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72829,
+          59.40166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Leppneeme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87639,
+          59.54774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Pääsküla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63206,
+          59.3704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Mustamäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66806,
+          59.39712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Vesse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81916,
+          59.42306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Ülemiste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79508,
+          59.42338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Tondi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73342,
+          59.41094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Lilleküla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72732,
+          59.42565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Viru keskus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7564,
+          59.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Estonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7507,
+          59.43328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Saku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6613,
+          59.30055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Lagedi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9323,
+          59.39931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79887,
+          59.41622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Maardu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.02707,
+          59.48723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Assaku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84348,
+          59.37928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Ikea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82581,
+          59.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Kitseküla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73866,
+          59.42039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Balti Jaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73748,
+          59.43975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "",
+        "Name": "Bussijaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77481,
+          59.42785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6556",
         "Name": "Kõue"
       },
@@ -1006,6 +1384,20 @@
         "coordinates": [
           25.01703,
           59.43537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6553",
+        "Name": "Kaunissaare teerist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.01674,
+          59.43543
         ]
       }
     },
@@ -4023,7 +4415,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5796",
-        "Name": "Peetri kool"
+        "Name": "Peetri kool (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -4345,7 +4737,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5793",
-        "Name": "Uusmaa"
+        "Name": "Uusmaa (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -4359,7 +4751,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5795",
-        "Name": "Uusmaa"
+        "Name": "Uusmaa (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -5590,6 +5982,188 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6632",
+        "Name": "Jalaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63688,
+          59.28638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6633",
+        "Name": "Jalaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63587,
+          59.2863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6617",
+        "Name": "Karukella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57523,
+          59.28894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6605",
+        "Name": "Kristjani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62315,
+          59.28799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6606",
+        "Name": "Kristjani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62273,
+          59.28846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6608",
+        "Name": "Kõrgemäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60876,
+          59.29735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6609",
+        "Name": "Kõrgemäe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60919,
+          59.29688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6610",
+        "Name": "Lageda tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59325,
+          59.29985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6611",
+        "Name": "Lageda tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59302,
+          59.30033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6612",
+        "Name": "Lukussepa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64852,
+          59.29047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6620",
+        "Name": "Rahula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56598,
+          59.29338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6623",
+        "Name": "Ringtee rist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60668,
+          59.31196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6624",
+        "Name": "Ringtee rist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60608,
+          59.31199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6534",
         "Name": "Saku Gümnaasium"
       },
@@ -5598,6 +6172,34 @@
         "coordinates": [
           24.67216,
           59.30373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6629",
+        "Name": "Sepa tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62722,
+          59.29218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6630",
+        "Name": "Sepa tee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62812,
+          59.29197
         ]
       }
     },
@@ -5626,6 +6228,76 @@
         "coordinates": [
           24.66153,
           59.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6627",
+        "Name": "Üksnurme mõis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62942,
+          59.28331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6625",
+        "Name": "Üksnurme teerist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5774,
+          59.30806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6626",
+        "Name": "Üksnurme teerist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57741,
+          59.30821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6615",
+        "Name": "Ürdi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63742,
+          59.2896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6616",
+        "Name": "Ürdi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63742,
+          59.2894
         ]
       }
     },
@@ -10692,22 +11364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7549,
-          59.44038
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "2008",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76009,
-          59.43945
+          24.75666,
+          59.43985
         ]
       }
     },
@@ -10728,14 +11386,14 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6588",
-        "Name": "Ajutine peatus"
+        "SiriID": "2008",
+        "Name": "Siimeoni (ajutine)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75588,
-          59.44022
+          24.76009,
+          59.43945
         ]
       }
     },
@@ -10743,13 +11401,27 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6590",
-        "Name": "Ajutine peatus"
+        "Name": "Hobujaama (ajutine)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           24.75924,
           59.43933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6588",
+        "Name": "Siimeoni (ajutine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75588,
+          59.44022
         ]
       }
     },
@@ -10953,7 +11625,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5482",
-        "Name": "Ajutine peatus"
+        "Name": "F. R. Kreutzwaldi (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -10966,8 +11638,22 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6583",
+        "Name": "F. R. Kreutzwaldi (ajutine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76906,
+          59.43682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6565",
-        "Name": "Ajutine peatus"
+        "Name": "Keskturg (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -10981,27 +11667,13 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6566",
-        "Name": "Ajutine peatus"
+        "Name": "Keskturg (ajutine)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           24.7679,
           59.43271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6583",
-        "Name": "Ajutine peatus"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76906,
-          59.43682
         ]
       }
     },
@@ -11947,7 +12619,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5800",
-        "Name": "Ajutine peatus"
+        "Name": "Pronksi (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -12367,7 +13039,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "4539",
-        "Name": "Ajutine peatus"
+        "Name": "L. Koidula (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -12521,7 +13193,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6574",
-        "Name": "Ajutine peatus"
+        "Name": "Viru (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -13935,7 +14607,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "4538",
-        "Name": "Ajutine peatus"
+        "Name": "Tuukri (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -15671,7 +16343,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6545",
-        "Name": "Ajutine peatus"
+        "Name": "Gaasi (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -16210,34 +16882,6 @@
         "coordinates": [
           24.83806,
           59.42906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6596",
-        "Name": "Laulupidu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.82028,
-          59.4455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6597",
-        "Name": "Laulupidu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81779,
-          59.44497
         ]
       }
     },
@@ -19339,7 +19983,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6591",
-        "Name": "Ülemiste jaam"
+        "Name": "Ülemiste jaam (ajutine)"
       },
       "geometry": {
         "type": "Point",
@@ -27212,8 +27856,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.90605,
-          59.50861
+          24.90601,
+          59.50843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "2190",
+        "Name": "Teekalda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90635,
+          59.50892
         ]
       }
     },
