@@ -1992,6 +1992,62 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6326",
+        "Name": "Kuu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76719,
+          59.31728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6328",
+        "Name": "Kuu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76744,
+          59.31679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6325",
+        "Name": "Saustimõisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78473,
+          59.30708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6327",
+        "Name": "Saustimõisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.78701,
+          59.30771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5044",
         "Name": "Kangru"
       },
@@ -9622,6 +9678,20 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "13011",
+        "Name": "Sinilille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64398,
+          59.4198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9659",
         "Name": "Sõudebaasi"
       },
@@ -12234,6 +12304,20 @@
         "coordinates": [
           24.75182,
           59.43372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "10378",
+        "Name": "Estonia 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75196,
+          59.43361
         ]
       }
     },
