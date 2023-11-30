@@ -182,45 +182,20 @@ const fetchRoutes = () => {
         }
       }
 
-      var old = toGeoJSONCollection(parsedData, false, false);
+      //var result = toGeoJSONCollection(parsedData, false, false); // legacy without id & routes
+      var result = toGeoJSONCollection(parsedData, true, false); // with id & without routes
+      //var result = toGeoJSONCollection(parsedData, true, true); // with id & routes
 
       fs.writeFile(
         "public/peatused.js",
-        `var peatused = ${JSON.stringify(old)};`,
+        `var peatused = ${JSON.stringify(result)};`,
         (err) => {
           if (err) throw err;
         }
       );
-      fs.writeFile("public/data.json", JSON.stringify(old, null, 2), (err) => {
+      fs.writeFile("public/data.json", JSON.stringify(result, null, 2), (err) => {
         if (err) throw err;
       });
-
-      /*var withoutroutes = toGeoJSONCollection(parsedData, true, false);
-
-      fs.writeFile(
-        "public/stops.json",
-        JSON.stringify(withoutroutes),
-        (err) => {
-          if (err) throw err;
-        }
-      );
-
-      var withroutes = toGeoJSONCollection(parsedData, true, true);
-
-      fs.writeFile(
-        "public/routes.js",
-        `var peatused = ${JSON.stringify(withroutes)};`,
-        (err) => {
-          if (err) throw err;
-        }
-      );
-      fs.writeFile(
-        "public/routes.json",
-        JSON.stringify(withroutes, null, 2),
-        (err) => {
-          if (err) throw err;
-        }
-      );*/
     });
 };
 
