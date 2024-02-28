@@ -2,6 +2,9 @@ name: Fetch & Deploy to gis.ee/tallinn/
 on:
   schedule:
     - cron: "25 5 1,15 * *"
+  push:
+    branches:
+      - master
 jobs:
   fetch:
     name: Fetch
