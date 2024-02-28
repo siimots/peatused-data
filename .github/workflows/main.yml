@@ -2,9 +2,6 @@ name: Fetch & Deploy to gis.ee/tallinn/
 on:
   schedule:
     - cron: "25 5 1,15 * *"
-  push:
-    branches:
-      - master
 jobs:
   fetch:
     name: Fetch
@@ -49,6 +46,14 @@ jobs:
         with:
           name: stops-files
           path: ./public
+
+      - name: Push data to git
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Data update"
+          git push
 
       - name: Connect to server over SSH
         run: |
