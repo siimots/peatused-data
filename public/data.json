@@ -10084,6 +10084,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6237",
+        "Name": "Ahtri (ajutine)",
+        "id": "00171-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7549,
+          59.44086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4334",
         "Name": "Estonia",
         "id": "21219-1"
@@ -10138,6 +10153,21 @@
         "coordinates": [
           24.74018,
           59.41995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6235",
+        "Name": "Linnahall (ajutine)",
+        "id": "00170-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74812,
+          59.44408
         ]
       }
     },
@@ -10348,6 +10378,21 @@
         "coordinates": [
           24.75924,
           59.43933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6242",
+        "Name": "Siimeoni (ajutine)",
+        "id": "00191-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76258,
+          59.43974
         ]
       }
     },
@@ -17893,6 +17938,21 @@
         "coordinates": [
           24.80885,
           59.4204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6013",
+        "Name": "Valukoja (ajutine)",
+        "id": "13517-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80657,
+          59.42038
         ]
       }
     },
