@@ -71,8 +71,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.58586,
-          59.42483
+          24.5847,
+          59.42555
         ]
       }
     },
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.58536,
-          59.425
+          24.58539,
+          59.42502
         ]
       }
     },
@@ -15019,6 +15019,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6670",
+        "Name": "Kaubajaama (ajutine)",
+        "id": "13519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81172,
+          59.42307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14429",
         "Name": "Lendtähe",
         "id": "16111-1"
@@ -15073,21 +15088,6 @@
         "coordinates": [
           24.86183,
           59.44375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6670",
-        "Name": "Valukoja (ajutine)",
-        "id": "13519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81172,
-          59.42307
         ]
       }
     },
@@ -25264,6 +25264,66 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "11577",
+        "Name": "Aiandi",
+        "id": "23683-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84258,
+          59.50517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "11578",
+        "Name": "Aiandi",
+        "id": "23684-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84232,
+          59.50473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "10301",
+        "Name": "Viievelle tee",
+        "id": "23678-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84892,
+          59.50735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "10302",
+        "Name": "Viievelle tee",
+        "id": "23679-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84972,
+          59.50751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6127",
         "Name": "Viimsi mõis",
         "id": "23712-1"
@@ -25288,6 +25348,21 @@
         "coordinates": [
           24.83577,
           59.50059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "11822",
+        "Name": "Soosepa",
+        "id": "23603-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85818,
+          59.50093
         ]
       }
     },
@@ -25669,6 +25744,51 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "9603",
+        "Name": "Tulbiaia",
+        "id": "23654-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84983,
+          59.49768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1263",
+        "Name": "Tulbiaia",
+        "id": "23717-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84905,
+          59.49766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1604",
+        "Name": "Viimsi vallamaja",
+        "id": "20801-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83691,
+          59.49886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9604",
         "Name": "Viimsi vallamaja",
         "id": "23655-1"
@@ -25678,6 +25798,36 @@
         "coordinates": [
           24.83638,
           59.4991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12415",
+        "Name": "Kuremarja",
+        "id": "23689-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86901,
+          59.50136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "236",
+        "Name": "Kuremarja",
+        "id": "23701-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86895,
+          59.50111
         ]
       }
     },
@@ -26539,6 +26689,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "393",
+        "Name": "Sooheina",
+        "id": "23711-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86592,
+          59.49954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10291",
         "Name": "Pällu",
         "id": "23668-1"
@@ -26653,6 +26818,36 @@
         "coordinates": [
           24.88911,
           59.53373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12416",
+        "Name": "Tulika",
+        "id": "23690-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8499,
+          59.50058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12417",
+        "Name": "Tulika",
+        "id": "23691-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84979,
+          59.50039
         ]
       }
     },
