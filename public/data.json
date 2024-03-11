@@ -12109,21 +12109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5821",
-        "Name": "Linnahall",
-        "id": "10617-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74722,
-          59.44427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6574",
         "Name": "Viru (ajutine)",
         "id": "00181-1"
@@ -15013,21 +14998,6 @@
         "coordinates": [
           24.84745,
           59.43206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6670",
-        "Name": "Kaubajaama (ajutine)",
-        "id": "13519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81172,
-          59.42307
         ]
       }
     },
