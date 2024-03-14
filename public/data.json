@@ -10339,21 +10339,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13011",
-        "Name": "Sinilille",
-        "id": "00902-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64398,
-          59.4198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "9659",
         "Name": "Sõudebaasi",
         "id": "00604-1"
@@ -15004,6 +14989,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6670",
+        "Name": "Kaubajaama (ajutine)",
+        "id": "13519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81172,
+          59.42307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14429",
         "Name": "Lendtähe",
         "id": "16111-1"
@@ -18253,6 +18253,36 @@
         "coordinates": [
           24.80885,
           59.4204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6013",
+        "Name": "Valukoja (ajutine)",
+        "id": "13517-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80657,
+          59.42038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6669",
+        "Name": "Valukoja (ajutine)",
+        "id": "13518-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80659,
+          59.42024
         ]
       }
     },
