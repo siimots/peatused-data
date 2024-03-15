@@ -10429,21 +10429,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6237",
-        "Name": "Ahtri (ajutine)",
-        "id": "00171-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7549,
-          59.44086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4334",
         "Name": "Estonia",
         "id": "21219-1"
@@ -10498,66 +10483,6 @@
         "coordinates": [
           24.74018,
           59.41995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6235",
-        "Name": "Linnahall (ajutine)",
-        "id": "00170-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74812,
-          59.44408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3652",
-        "Name": "Linnahall (ajutine)",
-        "id": "10619-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74949,
-          59.44307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6575",
-        "Name": "Raua",
-        "id": "00188-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76488,
-          59.43639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6579",
-        "Name": "Raua",
-        "id": "00189-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76442,
-          59.43628
         ]
       }
     },
@@ -10663,6 +10588,21 @@
         "coordinates": [
           24.77712,
           59.43877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6237",
+        "Name": "Ahtri (ajutine)",
+        "id": "00171-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7549,
+          59.44086
         ]
       }
     },
@@ -12094,6 +12034,51 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6575",
+        "Name": "Raua",
+        "id": "00188-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76488,
+          59.43639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6579",
+        "Name": "Raua",
+        "id": "00189-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76442,
+          59.43628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6235",
+        "Name": "Linnahall (ajutine)",
+        "id": "00170-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74812,
+          59.44408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6574",
         "Name": "Viru (ajutine)",
         "id": "00181-1"
@@ -12148,21 +12133,6 @@
         "coordinates": [
           24.73673,
           59.40967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1080",
-        "Name": "Kalev",
-        "id": "07402-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73621,
-          59.40982
         ]
       }
     },
@@ -12268,21 +12238,6 @@
         "coordinates": [
           24.73996,
           59.41496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1086",
-        "Name": "Tallinn-Väike",
-        "id": "07407-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73946,
-          59.41444
         ]
       }
     },
@@ -12748,6 +12703,21 @@
         "coordinates": [
           24.75956,
           59.44454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3652",
+        "Name": "Linnahall (ajutine)",
+        "id": "10619-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74949,
+          59.44307
         ]
       }
     },
@@ -13288,21 +13258,6 @@
         "coordinates": [
           24.72365,
           59.43375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1078",
-        "Name": "Tallinn-Väike",
-        "id": "07303-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73838,
-          59.41437
         ]
       }
     },
@@ -14839,21 +14794,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1084",
-        "Name": "Tondi",
-        "id": "07406-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73406,
-          59.41132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1072",
         "Name": "Västriku",
         "id": "07207-1"
@@ -14968,36 +14908,6 @@
         "coordinates": [
           24.7182,
           59.43097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6545",
-        "Name": "Gaasi (ajutine)",
-        "id": "09715-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84745,
-          59.43206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6670",
-        "Name": "Kaubajaama (ajutine)",
-        "id": "13519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81172,
-          59.42307
         ]
       }
     },
@@ -15238,6 +15148,21 @@
         "coordinates": [
           24.86749,
           59.4263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6545",
+        "Name": "Gaasi (ajutine)",
+        "id": "09715-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84745,
+          59.43206
         ]
       }
     },
@@ -17818,6 +17743,21 @@
         "coordinates": [
           24.81199,
           59.42285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6670",
+        "Name": "Kaubajaama (ajutine)",
+        "id": "13519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81172,
+          59.42307
         ]
       }
     },
