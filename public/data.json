@@ -18169,36 +18169,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "128",
-        "Name": "Valukoja",
-        "id": "13508-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80963,
-          59.42028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "129",
-        "Name": "Valukoja",
-        "id": "13509-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80885,
-          59.4204
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6013",
         "Name": "Valukoja (ajutine)",
         "id": "13517-1"
@@ -18328,21 +18298,6 @@
         "coordinates": [
           24.81168,
           59.43602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "130",
-        "Name": "Kaubajaama",
-        "id": "13510-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81085,
-          59.42213
         ]
       }
     },
