@@ -12079,6 +12079,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "167",
+        "Name": "Linnahall (ajutine)",
+        "id": "10509-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74773,
+          59.44382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6574",
         "Name": "Viru (ajutine)",
         "id": "00181-1"
@@ -13333,6 +13348,21 @@
         "coordinates": [
           24.73629,
           59.43213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6252",
+        "Name": "Tõnismägi",
+        "id": "12405-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73623,
+          59.43212
         ]
       }
     },
@@ -16114,6 +16144,66 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6684",
+        "Name": "Dvigatel",
+        "id": "13505-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8023,
+          59.4223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6685",
+        "Name": "Dvigatel",
+        "id": "13504-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80202,
+          59.42138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "127",
+        "Name": "Lõõtsa",
+        "id": "13507-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80232,
+          59.42082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6686",
+        "Name": "Lõõtsa",
+        "id": "13507-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80232,
+          59.42089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1477",
         "Name": "Mahtra",
         "id": "16202-1"
@@ -18148,21 +18238,6 @@
         "coordinates": [
           24.80294,
           59.42027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "127",
-        "Name": "Lõõtsa",
-        "id": "13507-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80232,
-          59.42082
         ]
       }
     },
@@ -23509,6 +23584,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6687",
+        "Name": "Kopli (ajutine)",
+        "id": "09009-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6695,
+          59.46106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1183",
         "Name": "Angerja",
         "id": "09802-1"
@@ -25639,21 +25729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "9603",
-        "Name": "Tulbiaia",
-        "id": "23654-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84983,
-          59.49768
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1263",
         "Name": "Tulbiaia",
         "id": "23717-1"
@@ -26713,36 +26788,6 @@
         "coordinates": [
           24.88911,
           59.53373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "12416",
-        "Name": "Tulika",
-        "id": "23690-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.8499,
-          59.50058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "12417",
-        "Name": "Tulika",
-        "id": "23691-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84979,
-          59.50039
         ]
       }
     },
