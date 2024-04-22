@@ -1295,7 +1295,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6402",
-        "Name": "Ridva tee",
+        "Name": "Ridva",
         "id": "27012-1"
       },
       "geometry": {
@@ -1310,7 +1310,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5358",
-        "Name": "Ridva tee",
+        "Name": "Ridva",
         "id": "27016-1"
       },
       "geometry": {
@@ -1415,7 +1415,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "14440",
-        "Name": "Veski",
+        "Name": "Veski põik",
         "id": "24803-1"
       },
       "geometry": {
@@ -1430,7 +1430,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "14442",
-        "Name": "Veski",
+        "Name": "Veski põik",
         "id": "47035-1"
       },
       "geometry": {
@@ -6964,6 +6964,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "14",
+        "Name": "Padula",
+        "id": "23372-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59126,
+          59.3375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "15",
+        "Name": "Padula",
+        "id": "23373-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59284,
+          59.33788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10746",
         "Name": "Saue",
         "id": "23424-1"
@@ -10594,21 +10624,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "2008",
-        "Name": "Siimeoni (ajutine)",
-        "id": "00175-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76009,
-          59.43945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6590",
         "Name": "Hobujaama (ajutine)",
         "id": "00186-1"
@@ -12043,21 +12058,6 @@
         "coordinates": [
           24.74812,
           59.44408
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "167",
-        "Name": "Linnahall (ajutine)",
-        "id": "10509-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74773,
-          59.44382
         ]
       }
     },
@@ -26876,8 +26876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.82755,
-          59.50543
+          24.82778,
+          59.50533
         ]
       }
     }
