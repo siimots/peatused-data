@@ -19,21 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6569",
-        "Name": "Kõue",
-        "id": "47231-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.49177,
-          59.44288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5836",
         "Name": "Liiva tee",
         "id": "47223-1"
