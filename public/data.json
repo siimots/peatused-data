@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6569",
+        "Name": "Kõue",
+        "id": "47231-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49177,
+          59.44288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5836",
         "Name": "Liiva tee",
         "id": "47223-1"
@@ -25819,6 +25834,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "9603",
+        "Name": "Tulbiaia",
+        "id": "23654-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84983,
+          59.49768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1263",
         "Name": "Tulbiaia",
         "id": "23717-1"
@@ -26878,6 +26908,36 @@
         "coordinates": [
           24.88911,
           59.53373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12416",
+        "Name": "Tulika",
+        "id": "23690-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8499,
+          59.50058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12417",
+        "Name": "Tulika",
+        "id": "23691-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84979,
+          59.50039
         ]
       }
     },
