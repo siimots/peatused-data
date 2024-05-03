@@ -6889,36 +6889,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6647",
-        "Name": "Vabaõhukeskuse",
-        "id": "47516-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.54148,
-          59.32971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6650",
-        "Name": "Vabaõhukeskuse",
-        "id": "47519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.54058,
-          59.32971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5578",
         "Name": "Välja",
         "id": "23429-1"
