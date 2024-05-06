@@ -6889,6 +6889,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6647",
+        "Name": "Vabaõhukeskuse",
+        "id": "47516-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54148,
+          59.32971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6650",
+        "Name": "Vabaõhukeskuse",
+        "id": "47519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54058,
+          59.32971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5578",
         "Name": "Välja",
         "id": "23429-1"
@@ -11389,21 +11419,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4590",
-        "Name": "Kanuti",
-        "id": "10508-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7534,
-          59.44096
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1293",
         "Name": "Mere puiestee",
         "id": "12103-1"
@@ -11419,21 +11434,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1294",
-        "Name": "Mere puiestee",
-        "id": "12104-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75337,
-          59.43756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1303",
         "Name": "Mere puiestee",
         "id": "12209-1"
@@ -11443,21 +11443,6 @@
         "coordinates": [
           24.75407,
           59.43834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1304",
-        "Name": "Mere puiestee",
-        "id": "12210-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75364,
-          59.43782
         ]
       }
     },
@@ -12463,51 +12448,6 @@
         "coordinates": [
           24.75036,
           59.4358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4589",
-        "Name": "Kanuti",
-        "id": "10507-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75316,
-          59.44091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1225",
-        "Name": "Linnahall",
-        "id": "10601-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75034,
-          59.4433
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1226",
-        "Name": "Linnahall",
-        "id": "10602-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75014,
-          59.44346
         ]
       }
     },
@@ -23269,21 +23209,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6689",
-        "Name": "Krulli (ajutine)",
-        "id": "13409-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71761,
-          59.44617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4560",
         "Name": "Miinisadam",
         "id": "10615-1"
@@ -23323,21 +23248,6 @@
         "coordinates": [
           24.73722,
           59.44022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6688",
-        "Name": "Volta (ajutine)",
-        "id": "13501-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.72233,
-          59.44479
         ]
       }
     },
@@ -23584,36 +23494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5652",
-        "Name": "Krulli (ajutine)",
-        "id": "13405-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71726,
-          59.44618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "72",
-        "Name": "Sitsi (ajutine)",
-        "id": "09916-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70448,
-          59.4529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1183",
         "Name": "Angerja",
         "id": "09802-1"
@@ -23638,36 +23518,6 @@
         "coordinates": [
           24.70946,
           59.45032
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3976",
-        "Name": "Angerja (ajutine)",
-        "id": "09908-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70894,
-          59.4504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3982",
-        "Name": "Angerja (ajutine)",
-        "id": "09912-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70969,
-          59.44995
         ]
       }
     },
@@ -24058,21 +23908,6 @@
         "coordinates": [
           24.70437,
           59.45332
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3983",
-        "Name": "Sitsi (ajutine)",
-        "id": "09913-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70463,
-          59.45295
         ]
       }
     },
@@ -25258,21 +25093,6 @@
         "coordinates": [
           24.72426,
           59.44987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3977",
-        "Name": "Volta (ajutine)",
-        "id": "09909-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7222,
-          59.44463
         ]
       }
     },
