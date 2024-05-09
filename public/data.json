@@ -10864,6 +10864,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1319",
+        "Name": "Kivisilla",
+        "id": "12305-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75867,
+          59.43531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1259",
         "Name": "Laulupeo",
         "id": "11501-1"
