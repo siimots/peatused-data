@@ -13594,51 +13594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "3892",
-        "Name": "Viru keskus 3",
-        "id": "21213-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75644,
-          59.43605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3894",
-        "Name": "Viru keskus 5",
-        "id": "21215-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75669,
-          59.43647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3895",
-        "Name": "Viru keskus 6",
-        "id": "21216-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75665,
-          59.43667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1246",
         "Name": "Lilleküla jaam",
         "id": "11204-1"
