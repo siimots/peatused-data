@@ -5066,8 +5066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92819,
-          59.38201
+          24.92794,
+          59.38174
         ]
       }
     },
@@ -5081,8 +5081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92862,
-          59.38242
+          24.92852,
+          59.38223
         ]
       }
     },
@@ -5096,8 +5096,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.92407,
-          59.37227
+          24.92414,
+          59.37233
         ]
       }
     },
@@ -10864,21 +10864,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1319",
-        "Name": "Kivisilla",
-        "id": "12305-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75867,
-          59.43531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1259",
         "Name": "Laulupeo",
         "id": "11501-1"
@@ -11008,6 +10993,21 @@
         "coordinates": [
           24.76493,
           59.4278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "112",
+        "Name": "Siimeoni (ajutine)",
+        "id": "00161-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76404,
+          59.44078
         ]
       }
     },
@@ -13588,6 +13588,51 @@
         "coordinates": [
           24.75872,
           59.4176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3892",
+        "Name": "Viru keskus 3",
+        "id": "21213-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75644,
+          59.43605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3894",
+        "Name": "Viru keskus 5",
+        "id": "21215-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75669,
+          59.43647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3895",
+        "Name": "Viru keskus 6",
+        "id": "21216-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75665,
+          59.43667
         ]
       }
     },
