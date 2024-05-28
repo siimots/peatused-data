@@ -6664,6 +6664,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "177",
+        "Name": "Oja",
+        "id": "23887-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65206,
+          59.30669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6449",
         "Name": "Kauri",
         "id": "47399-1"
