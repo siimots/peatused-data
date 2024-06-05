@@ -6709,6 +6709,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6530",
+        "Name": "Käokeele",
+        "id": "47503-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59798,
+          59.36503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6531",
         "Name": "Käokeele",
         "id": "47504-1"
@@ -6943,6 +6958,21 @@
         "coordinates": [
           24.603,
           59.36396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6529",
+        "Name": "Väriheina",
+        "id": "47502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60311,
+          59.36376
         ]
       }
     },
@@ -10579,6 +10609,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5786",
+        "Name": "Ahtri",
+        "id": "16305-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75666,
+          59.43985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6237",
         "Name": "Ahtri (ajutine)",
         "id": "00171-1"
@@ -10603,6 +10648,21 @@
         "coordinates": [
           24.757,
           59.44064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "2008",
+        "Name": "Siimeoni (ajutine)",
+        "id": "00175-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76009,
+          59.43945
         ]
       }
     },
