@@ -10894,6 +10894,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1257",
+        "Name": "Gonsiori",
+        "id": "11401-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7679,
+          59.4344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1258",
         "Name": "Gonsiori",
         "id": "11402-1"
@@ -10903,6 +10918,21 @@
         "coordinates": [
           24.76998,
           59.43398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1319",
+        "Name": "Kivisilla",
+        "id": "12305-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75867,
+          59.43531
         ]
       }
     },
@@ -18238,6 +18268,36 @@
         "coordinates": [
           24.82822,
           59.44389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "2797",
+        "Name": "Varraku (ajutine)",
+        "id": "16013-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85118,
+          59.43977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "2806",
+        "Name": "Varraku (ajutine)",
+        "id": "16014-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85082,
+          59.43971
         ]
       }
     },
