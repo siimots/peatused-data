@@ -3514,21 +3514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13140",
-        "Name": "Jüri Gümnaasium",
-        "id": "23911-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.90841,
-          59.35612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4570",
         "Name": "Jüri kirik",
         "id": "43193-1"
@@ -3664,36 +3649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "132",
-        "Name": "Lehmja kool",
-        "id": "47041-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85586,
-          59.37521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "234",
-        "Name": "Leivajõe aiandusühistu",
-        "id": "43171-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.94158,
-          59.38713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5728",
         "Name": "Liiva tee",
         "id": "23935-1"
@@ -3814,51 +3769,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6323",
-        "Name": "Muuseumi tee",
-        "id": "23961-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96104,
-          59.38777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6324",
-        "Name": "Muuseumi tee",
-        "id": "23962-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96117,
-          59.38844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6016",
-        "Name": "Muuseumi tee ristmik",
-        "id": "23966-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96027,
-          59.38798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "2237",
         "Name": "Männimetsa tee",
         "id": "23907-1"
@@ -3883,36 +3793,6 @@
         "coordinates": [
           24.8346,
           59.39151
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6453",
-        "Name": "Näkinurga",
-        "id": "23964-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96619,
-          59.37665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6454",
-        "Name": "Näkinurga",
-        "id": "23963-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96602,
-          59.37666
         ]
       }
     },
@@ -4228,21 +4108,6 @@
         "coordinates": [
           24.80675,
           59.39431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "233",
-        "Name": "Vaadi",
-        "id": "43170-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.94362,
-          59.37418
         ]
       }
     },
@@ -4834,36 +4699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "11096",
-        "Name": "Keskküla",
-        "id": "43004-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.95605,
-          59.39987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "11097",
-        "Name": "Keskküla",
-        "id": "43003-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.95778,
-          59.3989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4529",
         "Name": "Lagedi",
         "id": "43111-1"
@@ -4903,36 +4738,6 @@
         "coordinates": [
           24.94349,
           59.40212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4535",
-        "Name": "Lagedi kool",
-        "id": "43114-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.945,
-          59.40173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10595",
-        "Name": "Tuulevälja",
-        "id": "43005-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.96404,
-          59.39573
         ]
       }
     },
@@ -10834,36 +10639,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6565",
-        "Name": "Keskturg (ajutine)",
-        "id": "00179-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76769,
-          59.43286
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6566",
-        "Name": "Keskturg (ajutine)",
-        "id": "00180-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7679,
-          59.43271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1257",
         "Name": "Gonsiori",
         "id": "11401-1"
@@ -10903,6 +10678,21 @@
         "coordinates": [
           24.75867,
           59.43531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "10403",
+        "Name": "Kivisilla",
+        "id": "12305-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7597,
+          59.43517
         ]
       }
     },
@@ -18253,36 +18043,6 @@
         "coordinates": [
           24.85082,
           59.43971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1467",
-        "Name": "Varraku",
-        "id": "15803-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85132,
-          59.4382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1468",
-        "Name": "Varraku",
-        "id": "16001-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85124,
-          59.43878
         ]
       }
     },
