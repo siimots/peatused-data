@@ -9574,21 +9574,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1318",
-        "Name": "Kivisilla",
-        "id": "12305-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75839,
-          59.43535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1319",
         "Name": "Kivisilla",
         "id": "12305-2"
