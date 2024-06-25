@@ -4594,6 +4594,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6534",
+        "Name": "Saku Gümnaasium",
+        "id": "23259-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67216,
+          59.30373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6418",
         "Name": "Uusmäe",
         "id": "23850-1"
@@ -4624,6 +4639,96 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "9956",
+        "Name": "Saku Raudteejaam",
+        "id": "23271-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67606,
+          59.30114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6471",
+        "Name": "Saku Raudteejaam",
+        "id": "23271-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67613,
+          59.30118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5872",
+        "Name": "Nurmiko",
+        "id": "23845-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62766,
+          59.31216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5873",
+        "Name": "Nurmiko",
+        "id": "23846-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62841,
+          59.31212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4983",
+        "Name": "Jõenurme",
+        "id": "23206-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62044,
+          59.32783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4984",
+        "Name": "Jõenurme",
+        "id": "23205-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62082,
+          59.32734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4982",
         "Name": "Paunamäe",
         "id": "23227-1"
@@ -4639,6 +4744,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4985",
+        "Name": "Topi",
+        "id": "23249-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61889,
+          59.32049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4986",
+        "Name": "Topi",
+        "id": "23250-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61996,
+          59.32135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6138",
         "Name": "Valdmäe",
         "id": "23847-1"
@@ -4648,6 +4783,81 @@
         "coordinates": [
           24.6224,
           59.34459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4299",
+        "Name": "Murumäe tee",
+        "id": "23822-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62547,
+          59.30942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5706",
+        "Name": "Karjavärava tee",
+        "id": "23839-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63118,
+          59.31853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5634",
+        "Name": "Kadakamarja",
+        "id": "23837-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62118,
+          59.3172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5635",
+        "Name": "Kadakamarja",
+        "id": "23838-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62169,
+          59.31724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5707",
+        "Name": "Karjavärava tee",
+        "id": "23840-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63017,
+          59.31871
         ]
       }
     },
@@ -4678,6 +4888,96 @@
         "coordinates": [
           24.61678,
           59.34141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5871",
+        "Name": "Joametsa",
+        "id": "23843-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61982,
+          59.3333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12709",
+        "Name": "Kurvi",
+        "id": "23285-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63847,
+          59.30262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "12710",
+        "Name": "Kurvi",
+        "id": "23286-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64046,
+          59.30218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5025",
+        "Name": "Murumäe",
+        "id": "23224-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63384,
+          59.30753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5026",
+        "Name": "Murumäe",
+        "id": "23223-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63331,
+          59.3083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5023",
+        "Name": "Pähklimäe",
+        "id": "23231-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64936,
+          59.30033
         ]
       }
     },
@@ -23998,21 +24298,6 @@
         "coordinates": [
           24.90473,
           59.50393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4225",
-        "Name": "Tammneeme küla",
-        "id": "23609-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.87592,
-          59.53032
         ]
       }
     },
