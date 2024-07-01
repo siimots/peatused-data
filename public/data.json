@@ -9230,7 +9230,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1261",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11601-1"
       },
       "geometry": {
@@ -9365,7 +9365,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5797",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11609-1"
       },
       "geometry": {
@@ -10070,7 +10070,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1262",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11602-1"
       },
       "geometry": {
@@ -10085,7 +10085,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5954",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11602-2"
       },
       "geometry": {
@@ -10729,21 +10729,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6668",
-        "Name": "Linnahall (ajutine)",
-        "id": "00192-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75115,
-          59.44266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6163",
         "Name": "Pikksilma",
         "id": "10709-1"
@@ -10925,7 +10910,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1264",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11604-1"
       },
       "geometry": {
@@ -10940,7 +10925,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "11607",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11606-2"
       },
       "geometry": {
@@ -10955,7 +10940,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "11609",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11605-2"
       },
       "geometry": {
@@ -10970,7 +10955,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "11610",
-        "Name": "Bussijaam",
+        "Name": "Bussijaam (bus station)",
         "id": "11603-2"
       },
       "geometry": {
@@ -11075,7 +11060,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5726",
-        "Name": "Lennujaam",
+        "Name": "Lennujaam (airport)",
         "id": "13516-1"
       },
       "geometry": {
@@ -11465,7 +11450,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1983",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21104-1"
       },
       "geometry": {
@@ -14120,7 +14105,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "708",
-        "Name": "Lennujaam",
+        "Name": "Lennujaam (airport)",
         "id": "13513-1"
       },
       "geometry": {
@@ -14135,7 +14120,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5720",
-        "Name": "Lennujaam",
+        "Name": "Lennujaam (airport)",
         "id": "13514-1"
       },
       "geometry": {
@@ -14150,7 +14135,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "5721",
-        "Name": "Lennujaam",
+        "Name": "Lennujaam (airport)",
         "id": "13513-2"
       },
       "geometry": {
@@ -14563,21 +14548,6 @@
         "coordinates": [
           24.79209,
           59.42812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4053",
-        "Name": "Kurina",
-        "id": "17201-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.8604,
-          59.44786
         ]
       }
     },
@@ -16483,21 +16453,6 @@
         "coordinates": [
           24.85082,
           59.43971
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1468",
-        "Name": "Varraku",
-        "id": "16001-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85124,
-          59.43878
         ]
       }
     },
@@ -21815,7 +21770,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1234",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "10801-1"
       },
       "geometry": {
@@ -21830,7 +21785,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1624",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21101-1"
       },
       "geometry": {
@@ -22670,7 +22625,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1626",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21105-7"
       },
       "geometry": {
@@ -22685,7 +22640,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "9115",
-        "Name": "Balti jaam 1",
+        "Name": "Balti jaam 1 (train station)",
         "id": "21105-1"
       },
       "geometry": {
@@ -22700,7 +22655,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "9111",
-        "Name": "Balti jaam 2",
+        "Name": "Balti jaam 2 (train station)",
         "id": "21105-2"
       },
       "geometry": {
@@ -22715,7 +22670,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "9112",
-        "Name": "Balti jaam 3",
+        "Name": "Balti jaam 3 (train station)",
         "id": "21105-3"
       },
       "geometry": {
@@ -22730,7 +22685,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "9113",
-        "Name": "Balti jaam 4",
+        "Name": "Balti jaam 4 (train station)",
         "id": "21105-4"
       },
       "geometry": {
@@ -22745,7 +22700,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "9114",
-        "Name": "Balti jaam 5",
+        "Name": "Balti jaam 5 (train station)",
         "id": "21105-5"
       },
       "geometry": {
@@ -22760,7 +22715,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1625",
-        "Name": "Balti jaam 6",
+        "Name": "Balti jaam 6 (train station)",
         "id": "21105-6"
       },
       "geometry": {
@@ -23195,7 +23150,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1981",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21102-1"
       },
       "geometry": {
@@ -23210,7 +23165,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1982",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21103-1"
       },
       "geometry": {
