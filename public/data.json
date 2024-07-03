@@ -9709,21 +9709,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1293",
-        "Name": "Mere puiestee",
-        "id": "12103-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7532,
-          59.43766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1303",
         "Name": "Mere puiestee",
         "id": "12209-1"
@@ -18229,21 +18214,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "933",
-        "Name": "Hommiku",
-        "id": "03703-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63679,
-          59.37949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "934",
         "Name": "Hommiku",
         "id": "03704-1"
@@ -18253,36 +18223,6 @@
         "coordinates": [
           24.63641,
           59.37893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "935",
-        "Name": "Kalda",
-        "id": "03705-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63805,
-          59.38231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "936",
-        "Name": "Kalda",
-        "id": "03706-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63829,
-          59.38242
         ]
       }
     },
