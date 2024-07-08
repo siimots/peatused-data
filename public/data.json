@@ -4969,21 +4969,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5024",
-        "Name": "Pähklimäe",
-        "id": "23232-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65125,
-          59.29967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5009",
         "Name": "Saku Kingu",
         "id": "23236-1"
@@ -5173,21 +5158,6 @@
         "coordinates": [
           24.65252,
           59.30042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5022",
-        "Name": "Salu",
-        "id": "23201-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65245,
-          59.30035
         ]
       }
     },
@@ -9418,36 +9388,6 @@
         "coordinates": [
           24.73954,
           59.43148
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1283",
-        "Name": "Vabaduse väljak",
-        "id": "12003-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74267,
-          59.43251
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1284",
-        "Name": "Vabaduse väljak",
-        "id": "12003-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74206,
-          59.43235
         ]
       }
     },
