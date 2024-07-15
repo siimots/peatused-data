@@ -21274,36 +21274,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "10137",
-        "Name": "Tallinn",
-        "id": "21106-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73695,
-          59.4405
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10138",
-        "Name": "Tallinn",
-        "id": "21107-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73722,
-          59.44022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1191",
         "Name": "Erika",
         "id": "09810-1"
