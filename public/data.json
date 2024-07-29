@@ -10294,6 +10294,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1080",
+        "Name": "Kalev",
+        "id": "07402-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73621,
+          59.40982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1081",
         "Name": "Kalev",
         "id": "07403-1"
@@ -10393,6 +10408,21 @@
         "coordinates": [
           24.73996,
           59.41496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1086",
+        "Name": "Tallinn-Väike",
+        "id": "07407-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73946,
+          59.41444
         ]
       }
     },
@@ -11353,6 +11383,21 @@
         "coordinates": [
           24.72365,
           59.43375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1078",
+        "Name": "Tallinn-Väike",
+        "id": "07303-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73838,
+          59.41437
         ]
       }
     },
@@ -12853,6 +12898,21 @@
         "coordinates": [
           24.73226,
           59.41103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1084",
+        "Name": "Tondi",
+        "id": "07406-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73406,
+          59.41132
         ]
       }
     },
@@ -22460,7 +22520,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1626",
-        "Name": "Balti jaam (train station)",
+        "Name": "Balti jaam",
         "id": "21105-7"
       },
       "geometry": {
