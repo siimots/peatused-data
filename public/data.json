@@ -11614,36 +11614,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1255",
-        "Name": "Vana-Lõuna",
-        "id": "11309-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7445,
-          59.42164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1256",
-        "Name": "Vana-Lõuna",
-        "id": "11311-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74394,
-          59.42164
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1254",
         "Name": "Veerenni",
         "id": "11308-1"
@@ -22520,7 +22490,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1626",
-        "Name": "Balti jaam",
+        "Name": "Balti jaam (train station)",
         "id": "21105-7"
       },
       "geometry": {
