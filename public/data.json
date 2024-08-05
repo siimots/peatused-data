@@ -1106,8 +1106,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.96186,
-          59.43095
+          24.95999,
+          59.43107
         ]
       }
     },
@@ -1121,8 +1121,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.96175,
-          59.43101
+          24.96099,
+          59.43109
         ]
       }
     },
@@ -1136,8 +1136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.04282,
-          59.42544
+          25.04188,
+          59.42543
         ]
       }
     },
@@ -1151,8 +1151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.04455,
-          59.42531
+          25.04507,
+          59.42532
         ]
       }
     },
@@ -5488,21 +5488,6 @@
         "coordinates": [
           24.59764,
           59.35368
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6193",
-        "Name": "Redise",
-        "id": "47365-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.61368,
-          59.34773
         ]
       }
     },
@@ -13003,6 +12988,36 @@
         "coordinates": [
           24.7182,
           59.43097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6149",
+        "Name": "Dvigatel (ajutine)",
+        "id": "07506-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79895,
+          59.42299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6151",
+        "Name": "Dvigatel (ajutine)",
+        "id": "09710-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80157,
+          59.42315
         ]
       }
     },
