@@ -11584,6 +11584,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6049",
+        "Name": "Kitseküla (ajutine)",
+        "id": "13303-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74321,
+          59.42033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1252",
         "Name": "Vana-Lõuna",
         "id": "11306-1"
