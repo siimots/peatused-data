@@ -9634,6 +9634,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4590",
+        "Name": "Kanuti",
+        "id": "10508-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7534,
+          59.44096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1294",
+        "Name": "Mere puiestee",
+        "id": "12104-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75337,
+          59.43756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1303",
         "Name": "Mere puiestee",
         "id": "12209-1"
@@ -9643,6 +9673,21 @@
         "coordinates": [
           24.75407,
           59.43834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1304",
+        "Name": "Mere puiestee",
+        "id": "12210-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75364,
+          59.43782
         ]
       }
     },
@@ -10654,6 +10699,51 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4589",
+        "Name": "Kanuti",
+        "id": "10507-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75316,
+          59.44091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1225",
+        "Name": "Linnahall",
+        "id": "10601-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75034,
+          59.4433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1226",
+        "Name": "Linnahall",
+        "id": "10602-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75014,
+          59.44346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6163",
         "Name": "Pikksilma",
         "id": "10709-1"
@@ -11578,6 +11668,36 @@
         "coordinates": [
           24.74592,
           59.4228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1255",
+        "Name": "Vana-Lõuna",
+        "id": "11309-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7445,
+          59.42164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1256",
+        "Name": "Vana-Lõuna",
+        "id": "11311-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74394,
+          59.42164
         ]
       }
     },
@@ -21694,6 +21814,81 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1183",
+        "Name": "Angerja",
+        "id": "09802-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70975,
+          59.45006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1184",
+        "Name": "Angerja",
+        "id": "09803-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70946,
+          59.45032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1234",
+        "Name": "Balti jaam (train station)",
+        "id": "10801-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73788,
+          59.44109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1624",
+        "Name": "Balti jaam (train station)",
+        "id": "21101-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73843,
+          59.44105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1148",
+        "Name": "Kopli",
+        "id": "09005-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66793,
+          59.46121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1149",
         "Name": "Kopli",
         "id": "09006-1"
@@ -21703,6 +21898,81 @@
         "coordinates": [
           24.66757,
           59.46116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1151",
+        "Name": "Kopli",
+        "id": "09007-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66963,
+          59.46105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5658",
+        "Name": "Krulli",
+        "id": "10404-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71738,
+          59.44604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5659",
+        "Name": "Krulli",
+        "id": "10405-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71702,
+          59.44625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1157",
+        "Name": "Maleva",
+        "id": "09106-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68961,
+          59.45511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1158",
+        "Name": "Maleva",
+        "id": "09107-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68907,
+          59.45513
         ]
       }
     },
@@ -21739,6 +22009,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1774",
+        "Name": "Marati",
+        "id": "09108-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67552,
+          59.4581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3666",
+        "Name": "Marati",
+        "id": "09109-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67583,
+          59.45783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5690",
         "Name": "Marati",
         "id": "09110-1"
@@ -21754,6 +22054,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5656",
+        "Name": "Salme",
+        "id": "10803-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7291,
+          59.44193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5657",
+        "Name": "Salme",
+        "id": "10804-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72867,
+          59.44209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1144",
         "Name": "Sepa",
         "id": "09001-1"
@@ -21763,6 +22093,36 @@
         "coordinates": [
           24.67005,
           59.46045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1145",
+        "Name": "Sepa",
+        "id": "09002-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67216,
+          59.45953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1146",
+        "Name": "Sepa",
+        "id": "09003-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67187,
+          59.45979
         ]
       }
     },
@@ -21799,6 +22159,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1154",
+        "Name": "Sirbi",
+        "id": "09103-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68132,
+          59.45502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1155",
         "Name": "Sirbi",
         "id": "09104-1"
@@ -21808,6 +22183,111 @@
         "coordinates": [
           24.68169,
           59.45489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1156",
+        "Name": "Sirbi",
+        "id": "09105-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6809,
+          59.45527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1185",
+        "Name": "Sitsi",
+        "id": "09804-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70464,
+          59.45306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1186",
+        "Name": "Sitsi",
+        "id": "09805-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70437,
+          59.45332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1220",
+        "Name": "Telliskivi",
+        "id": "10403-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73218,
+          59.44165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1235",
+        "Name": "Telliskivi",
+        "id": "10802-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73275,
+          59.4416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1218",
+        "Name": "Volta",
+        "id": "10401-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72246,
+          59.44399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1219",
+        "Name": "Volta",
+        "id": "10402-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.72213,
+          59.44421
         ]
       }
     },
@@ -22153,6 +22633,36 @@
         "coordinates": [
           24.75147,
           59.44384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1221",
+        "Name": "Põhja puiestee",
+        "id": "10501-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74407,
+          59.4437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1222",
+        "Name": "Põhja puiestee",
+        "id": "10502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74369,
+          59.44347
         ]
       }
     },
