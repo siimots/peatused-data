@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.56577,
-          59.43201
+          24.56542,
+          59.43205
         ]
       }
     },
@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.60122,
-          59.41593
+          24.60174,
+          59.41596
         ]
       }
     },
@@ -176,8 +176,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.6027,
-          59.41585
+          24.60264,
+          59.4158
         ]
       }
     },
@@ -244,21 +244,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4625",
-        "Name": "Kallaste",
-        "id": "21504-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.55122,
-          59.42964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4626",
         "Name": "Kallaste",
         "id": "21503-1"
@@ -313,21 +298,6 @@
         "coordinates": [
           24.5247,
           59.43339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4630",
-        "Name": "Mere tee",
-        "id": "21521-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.52558,
-          59.43319
         ]
       }
     },
@@ -761,8 +731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.42274,
-          59.42398
+          24.42337,
+          59.42404
         ]
       }
     },
@@ -844,21 +814,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "11832",
-        "Name": "Kooli",
-        "id": "21599-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.53667,
-          59.42787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5784",
         "Name": "Vana-Rannamõisa tee",
         "id": "47225-1"
@@ -928,6 +883,51 @@
         "coordinates": [
           24.58343,
           59.41466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4625",
+        "Name": "Kallaste",
+        "id": "21504-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55024,
+          59.42961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4630",
+        "Name": "Mere tee",
+        "id": "21521-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.52457,
+          59.43359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "11832",
+        "Name": "Kooli",
+        "id": "21599-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53665,
+          59.42811
         ]
       }
     },
@@ -3508,6 +3508,21 @@
         "coordinates": [
           24.81151,
           59.36064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6044",
+        "Name": "uus peatus - nimi määramisel",
+        "id": "43199-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79825,
+          59.39619
         ]
       }
     },
