@@ -21499,21 +21499,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6689",
-        "Name": "Krulli (ajutine)",
-        "id": "13409-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71761,
-          59.44617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4560",
         "Name": "Miinisadam",
         "id": "10615-1"
@@ -21553,21 +21538,6 @@
         "coordinates": [
           24.73722,
           59.44022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6688",
-        "Name": "Volta (ajutine)",
-        "id": "13501-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.72233,
-          59.44479
         ]
       }
     },
@@ -21808,21 +21778,6 @@
         "coordinates": [
           24.6695,
           59.46106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5652",
-        "Name": "Krulli (ajutine)",
-        "id": "13405-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71726,
-          59.44618
         ]
       }
     },
@@ -23368,21 +23323,6 @@
         "coordinates": [
           24.72426,
           59.44987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3977",
-        "Name": "Volta (ajutine)",
-        "id": "09909-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7222,
-          59.44463
         ]
       }
     },
