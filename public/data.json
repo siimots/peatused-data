@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.54666,
-          59.40796
+          24.54648,
+          59.40837
         ]
       }
     },
@@ -131,8 +131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.46917,
-          59.37502
+          24.4687,
+          59.37514
         ]
       }
     },
@@ -244,6 +244,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4625",
+        "Name": "Kallaste",
+        "id": "21504-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55024,
+          59.42961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4626",
         "Name": "Kallaste",
         "id": "21503-1"
@@ -298,6 +313,21 @@
         "coordinates": [
           24.5247,
           59.43339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4630",
+        "Name": "Mere tee",
+        "id": "21521-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.52457,
+          59.43359
         ]
       }
     },
@@ -686,8 +716,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.47381,
-          59.43034
+          24.47443,
+          59.4304
         ]
       }
     },
@@ -701,8 +731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.47435,
-          59.43031
+          24.47436,
+          59.43027
         ]
       }
     },
@@ -746,8 +776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.45051,
-          59.42992
+          24.44932,
+          59.42997
         ]
       }
     },
@@ -761,8 +791,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.4495,
-          59.42986
+          24.45201,
+          59.42971
         ]
       }
     },
@@ -808,6 +838,21 @@
         "coordinates": [
           24.53707,
           59.42868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "11832",
+        "Name": "Kooli",
+        "id": "21599-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53665,
+          59.42811
         ]
       }
     },
@@ -883,51 +928,6 @@
         "coordinates": [
           24.58343,
           59.41466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4625",
-        "Name": "Kallaste",
-        "id": "21504-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.55024,
-          59.42961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4630",
-        "Name": "Mere tee",
-        "id": "21521-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.52457,
-          59.43359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "11832",
-        "Name": "Kooli",
-        "id": "21599-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.53665,
-          59.42811
         ]
       }
     },
@@ -3199,6 +3199,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6044",
+        "Name": "Küti tee",
+        "id": "43199-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79658,
+          59.39613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5728",
         "Name": "Liiva tee",
         "id": "23935-1"
@@ -3508,21 +3523,6 @@
         "coordinates": [
           24.81151,
           59.36064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6044",
-        "Name": "uus peatus - nimi määramisel",
-        "id": "43199-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79825,
-          59.39619
         ]
       }
     },
@@ -5681,8 +5681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.54654,
-          59.40733
+          24.54658,
+          59.4071
         ]
       }
     },
@@ -13153,36 +13153,6 @@
         "coordinates": [
           24.7182,
           59.43097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6149",
-        "Name": "Dvigatel (ajutine)",
-        "id": "07506-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79895,
-          59.42299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6151",
-        "Name": "Dvigatel (ajutine)",
-        "id": "09710-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80157,
-          59.42315
         ]
       }
     },
