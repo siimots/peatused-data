@@ -3199,21 +3199,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6044",
-        "Name": "Küti tee",
-        "id": "43199-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79658,
-          59.39613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5728",
         "Name": "Liiva tee",
         "id": "23935-1"
@@ -9043,21 +9028,6 @@
         "coordinates": [
           24.76426,
           59.42085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6583",
-        "Name": "F. R. Kreutzwaldi (ajutine)",
-        "id": "00184-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76906,
-          59.43682
         ]
       }
     },
@@ -15928,6 +15898,36 @@
         "coordinates": [
           24.85816,
           59.43855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6676",
+        "Name": "Varraku (ajutine)",
+        "id": "16015-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85142,
+          59.43728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6677",
+        "Name": "Varraku (ajutine)",
+        "id": "16016-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85133,
+          59.43691
         ]
       }
     },
