@@ -15911,8 +15911,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85142,
-          59.43728
+          24.85146,
+          59.43731
         ]
       }
     },
@@ -15926,8 +15926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85133,
-          59.43691
+          24.85176,
+          59.43699
         ]
       }
     },
@@ -16483,36 +16483,6 @@
         "coordinates": [
           24.82822,
           59.44389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "2797",
-        "Name": "Varraku (ajutine)",
-        "id": "16013-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85118,
-          59.43977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "2806",
-        "Name": "Varraku (ajutine)",
-        "id": "16014-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.85082,
-          59.43971
         ]
       }
     },
