@@ -10219,15 +10219,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6235",
-        "Name": "Linnahall (ajutine)",
-        "id": "00170-1"
+        "SiriID": "1223",
+        "Name": "Linnahall",
+        "id": "10503-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74812,
-          59.44408
+          24.75011,
+          59.44347
         ]
       }
     },
@@ -10879,21 +10879,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "3652",
-        "Name": "Linnahall (ajutine)",
-        "id": "10619-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74949,
-          59.44307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1241",
         "Name": "Koidu",
         "id": "11102-1"
@@ -11434,6 +11419,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1077",
+        "Name": "Tallinn-Väike",
+        "id": "07302-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73718,
+          59.41367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1078",
         "Name": "Tallinn-Väike",
         "id": "07303-1"
@@ -11443,6 +11443,21 @@
         "coordinates": [
           24.73838,
           59.41437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1088",
+        "Name": "Tallinn-Väike",
+        "id": "07409-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73852,
+          59.41419
         ]
       }
     },
@@ -15911,8 +15926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85146,
-          59.43731
+          24.85266,
+          59.43751
         ]
       }
     },
@@ -15926,8 +15941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.85176,
-          59.43699
+          24.85288,
+          59.43724
         ]
       }
     },
@@ -22843,6 +22858,66 @@
         "coordinates": [
           24.71134,
           59.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1167",
+        "Name": "Niidi",
+        "id": "09404-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69904,
+          59.44946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1178",
+        "Name": "Niidi",
+        "id": "09701-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69943,
+          59.44953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1179",
+        "Name": "Sitsi",
+        "id": "09702-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70319,
+          59.45301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1180",
+        "Name": "Sitsi",
+        "id": "09703-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70303,
+          59.45315
         ]
       }
     },
