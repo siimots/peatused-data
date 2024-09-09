@@ -3514,21 +3514,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13140",
-        "Name": "Jüri Gümnaasium",
-        "id": "23911-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.90841,
-          59.35612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4570",
         "Name": "Jüri kirik",
         "id": "43193-1"
@@ -3553,6 +3538,21 @@
         "coordinates": [
           24.9238,
           59.36213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13140",
+        "Name": "Jüri kool",
+        "id": "23911-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90841,
+          59.35612
         ]
       }
     },
@@ -3671,8 +3671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79658,
-          59.39613
+          24.79655,
+          59.39614
         ]
       }
     },
@@ -10661,8 +10661,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.757,
-          59.44064
+          24.75921,
+          59.44023
         ]
       }
     },
@@ -16174,36 +16174,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6684",
-        "Name": "Dvigatel",
-        "id": "13505-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.8023,
-          59.4223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6685",
-        "Name": "Dvigatel",
-        "id": "13504-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80202,
-          59.42138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "127",
         "Name": "Lõõtsa",
         "id": "13507-1"
@@ -16213,21 +16183,6 @@
         "coordinates": [
           24.80232,
           59.42082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6686",
-        "Name": "Lõõtsa",
-        "id": "13507-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80232,
-          59.42089
         ]
       }
     },
@@ -17854,21 +17809,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6670",
-        "Name": "Kaubajaama (ajutine)",
-        "id": "13519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81172,
-          59.42307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1370",
         "Name": "Kesk-Sõjamäe",
         "id": "13503-1"
@@ -18259,30 +18199,30 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6013",
-        "Name": "Valukoja (ajutine)",
-        "id": "13517-1"
+        "SiriID": "128",
+        "Name": "Valukoja",
+        "id": "13508-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.80657,
-          59.42038
+          24.80963,
+          59.42028
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6669",
-        "Name": "Valukoja (ajutine)",
-        "id": "13518-1"
+        "SiriID": "129",
+        "Name": "Valukoja",
+        "id": "13509-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.80659,
-          59.42024
+          24.80885,
+          59.4204
         ]
       }
     },
@@ -18388,6 +18328,21 @@
         "coordinates": [
           24.81168,
           59.43602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "130",
+        "Name": "Kaubajaama",
+        "id": "13510-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81085,
+          59.42213
         ]
       }
     },
