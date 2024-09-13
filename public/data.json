@@ -10661,7 +10661,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75928,
+          24.75924,
           59.44019
         ]
       }
@@ -11458,6 +11458,21 @@
         "coordinates": [
           24.7534,
           59.44096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1293",
+        "Name": "Mere puiestee",
+        "id": "12103-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7532,
+          59.43766
         ]
       }
     },
