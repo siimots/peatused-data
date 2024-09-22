@@ -1,7 +1,6 @@
-const fs = require("fs");
-const fetch = require("node-fetch");
-const pointsWithinPolygon = require("@turf/points-within-polygon");
-const Tallinn8kmBuffer = require("./buffer.json");
+import { readFileSync, writeFile } from "fs";
+import fetch from "node-fetch";
+import { pointsWithinPolygon } from "@turf/points-within-polygon";
 
 const DEBUG = false;
 const USEBUFFER = true;
@@ -30,6 +29,7 @@ const toGeoJSONCollection = (data, withId, withRoutes) => {
   });
 
   if (USEBUFFER) {
+    const Tallinn8kmBuffer = JSON.parse(readFileSync("./buffer.json"));
     result = pointsWithinPolygon(result, Tallinn8kmBuffer);
   }
 
@@ -186,14 +186,14 @@ const fetchRoutes = () => {
       var result = toGeoJSONCollection(parsedData, true, false); // with id & without routes
       //var result = toGeoJSONCollection(parsedData, true, true); // with id & routes
 
-      fs.writeFile(
+      writeFile(
         "public/peatused.js",
         `var peatused = ${JSON.stringify(result)};`,
         (err) => {
           if (err) throw err;
-        }
+        },
       );
-      fs.writeFile("public/data.json", JSON.stringify(result, null, 2), (err) => {
+      writeFile("public/data.json", JSON.stringify(result, null, 2), (err) => {
         if (err) throw err;
       });
     });
