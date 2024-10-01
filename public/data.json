@@ -34,6 +34,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6050",
+        "Name": "Künka tee",
+        "id": "47232-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59011,
+          59.43079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6051",
+        "Name": "Künka tee",
+        "id": "47233-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.58893,
+          59.43034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5836",
         "Name": "Liiva tee",
         "id": "47223-1"
@@ -3665,7 +3695,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6044",
-        "Name": "Küti tee",
+        "Name": "Küti",
         "id": "43199-1"
       },
       "geometry": {
@@ -10646,8 +10676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75666,
-          59.43985
+          24.7549,
+          59.4404
         ]
       }
     },
@@ -11209,6 +11239,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1283",
+        "Name": "Vabaduse väljak",
+        "id": "12003-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74267,
+          59.43251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1284",
+        "Name": "Vabaduse väljak",
+        "id": "12003-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74206,
+          59.43235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1285",
         "Name": "Vabaduse väljak",
         "id": "12003-3"
@@ -11338,6 +11398,21 @@
         "coordinates": [
           24.79391,
           59.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6716",
+        "Name": "Ajutine peatus",
+        "id": "16018-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74513,
+          59.42741
         ]
       }
     },
@@ -12718,6 +12793,21 @@
         "coordinates": [
           24.75956,
           59.44454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6715",
+        "Name": "Ajutine peatus",
+        "id": "16017-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74137,
+          59.4273
         ]
       }
     },
