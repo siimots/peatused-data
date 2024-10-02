@@ -11404,21 +11404,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6716",
-        "Name": "Ajutine peatus",
-        "id": "16018-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74513,
-          59.42741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1315",
         "Name": "Hotell Olümpia",
         "id": "12301-1"
@@ -12793,21 +12778,6 @@
         "coordinates": [
           24.75956,
           59.44454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6715",
-        "Name": "Ajutine peatus",
-        "id": "16017-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74137,
-          59.4273
         ]
       }
     },
