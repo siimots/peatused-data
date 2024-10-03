@@ -15064,21 +15064,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6151",
-        "Name": "Dvigatel (ajutine)",
-        "id": "09710-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80157,
-          59.42315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "14429",
         "Name": "Lendtähe",
         "id": "16111-1"
@@ -16279,36 +16264,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6684",
-        "Name": "Dvigatel",
-        "id": "13505-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.8023,
-          59.4223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6685",
-        "Name": "Dvigatel",
-        "id": "13504-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80202,
-          59.42138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "127",
         "Name": "Lõõtsa",
         "id": "13507-1"
@@ -16318,21 +16273,6 @@
         "coordinates": [
           24.80232,
           59.42082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6686",
-        "Name": "Lõõtsa",
-        "id": "13507-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80232,
-          59.42089
         ]
       }
     },
@@ -17953,21 +17893,6 @@
         "coordinates": [
           24.81199,
           59.42285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6670",
-        "Name": "Kaubajaama (ajutine)",
-        "id": "13519-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81172,
-          59.42307
         ]
       }
     },
