@@ -3709,6 +3709,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "65",
+        "Name": "Lehmja kool",
+        "id": "23919-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85635,
+          59.37524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "132",
         "Name": "Lehmja kool",
         "id": "47041-1"
@@ -4153,6 +4168,21 @@
         "coordinates": [
           24.87255,
           59.36546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13221",
+        "Name": "Sinikivi",
+        "id": "23914-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87101,
+          59.36676
         ]
       }
     },
@@ -10594,6 +10624,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1297",
+        "Name": "A. Laikmaa",
+        "id": "12203-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75755,
+          59.43614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10402",
         "Name": "A. Laikmaa",
         "id": "21221-1"
@@ -10924,6 +10969,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1314",
+        "Name": "Kivisilla",
+        "id": "12220-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75954,
+          59.43551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1318",
+        "Name": "Kivisilla",
+        "id": "12305-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75876,
+          59.4353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1319",
         "Name": "Kivisilla",
         "id": "12305-2"
@@ -10933,6 +11008,21 @@
         "coordinates": [
           24.75932,
           59.43521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3103",
+        "Name": "Kivisilla",
+        "id": "12220-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75864,
+          59.43563
         ]
       }
     },
@@ -11008,6 +11098,36 @@
         "coordinates": [
           24.78202,
           59.43253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1300",
+        "Name": "Hobujaama",
+        "id": "12206-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75741,
+          59.43802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1301",
+        "Name": "Hobujaama",
+        "id": "12207-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75733,
+          59.43761
         ]
       }
     },
@@ -11398,6 +11518,21 @@
         "coordinates": [
           24.79391,
           59.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6716",
+        "Name": "Ajutine peatus",
+        "id": "16018-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74513,
+          59.42741
         ]
       }
     },
@@ -12073,6 +12208,21 @@
         "coordinates": [
           24.81028,
           59.45648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5888",
+        "Name": "Paberi",
+        "id": "00182-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76385,
+          59.43338
         ]
       }
     },
@@ -12778,6 +12928,21 @@
         "coordinates": [
           24.75956,
           59.44454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6715",
+        "Name": "Ajutine peatus",
+        "id": "16017-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74137,
+          59.4273
         ]
       }
     },
@@ -13504,6 +13669,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1313",
+        "Name": "Maneeži",
+        "id": "12218-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76103,
+          59.4356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1322",
         "Name": "Vabaduse väljak",
         "id": "12401-1"
@@ -13789,6 +13969,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3890",
+        "Name": "Viru keskus 1",
+        "id": "21211-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7564,
+          59.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3891",
+        "Name": "Viru keskus 2",
+        "id": "21212-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75667,
+          59.43595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "3892",
         "Name": "Viru keskus 3",
         "id": "21213-1"
@@ -13798,6 +14008,21 @@
         "coordinates": [
           24.75644,
           59.43605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3893",
+        "Name": "Viru keskus 4",
+        "id": "21214-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75672,
+          59.43621
         ]
       }
     },
@@ -16798,6 +17023,21 @@
         "coordinates": [
           24.86653,
           59.43587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1459",
+        "Name": "P. Pinna",
+        "id": "15604-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83673,
+          59.43551
         ]
       }
     },
