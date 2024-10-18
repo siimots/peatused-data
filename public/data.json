@@ -12709,6 +12709,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1634",
+        "Name": "Viru",
+        "id": "21207-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75095,
+          59.43576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1635",
         "Name": "Viru",
         "id": "21208-1"
