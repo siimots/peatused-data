@@ -10759,21 +10759,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6590",
-        "Name": "Hobujaama (ajutine)",
-        "id": "00186-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75924,
-          59.43933
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1243",
         "Name": "Koidu",
         "id": "11201-1"
@@ -10918,21 +10903,6 @@
         "coordinates": [
           24.76426,
           59.42085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6699",
-        "Name": "Kivisilla (ajutine)",
-        "id": "12306-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76168,
-          59.43523
         ]
       }
     },
@@ -11233,21 +11203,6 @@
         "coordinates": [
           24.77161,
           59.42071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "4052",
-        "Name": "Järvevana",
-        "id": "13009-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78577,
-          59.42263
         ]
       }
     },
@@ -13639,21 +13594,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4538",
-        "Name": "Tuukri (ajutine)",
-        "id": "00176-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77024,
-          59.4396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1229",
         "Name": "Reisisadama D-terminal",
         "id": "10701-1"
@@ -15784,36 +15724,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13083",
-        "Name": "Vesse parkla",
-        "id": "14608-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.83702,
-          59.42888
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "13198",
-        "Name": "Vesse parkla",
-        "id": "14609-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.83806,
-          59.42906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1473",
         "Name": "K. Kärberi",
         "id": "16102-1"
@@ -17533,36 +17443,6 @@
         "coordinates": [
           24.90916,
           59.4449
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9815",
-        "Name": "Silde",
-        "id": "14604-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84058,
-          59.42949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9816",
-        "Name": "Silde",
-        "id": "14605-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84011,
-          59.42941
         ]
       }
     },
