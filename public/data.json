@@ -10939,21 +10939,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6699",
-        "Name": "Kivisilla (ajutine)",
-        "id": "12306-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76168,
-          59.43523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1257",
         "Name": "Gonsiori",
         "id": "11401-1"
@@ -11023,21 +11008,6 @@
         "coordinates": [
           24.75932,
           59.43521
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3102",
-        "Name": "Kivisilla",
-        "id": "12220-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75897,
-          59.43555
         ]
       }
     },
