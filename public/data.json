@@ -11509,21 +11509,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6716",
-        "Name": "Ajutine peatus",
-        "id": "16018-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74513,
-          59.42741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1315",
         "Name": "Hotell Olümpia",
         "id": "12301-1"
@@ -11563,6 +11548,21 @@
         "coordinates": [
           24.75249,
           59.42882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6716",
+        "Name": "Kosmos (ajutine)",
+        "id": "16018-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74513,
+          59.42741
         ]
       }
     },
@@ -12919,21 +12919,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6715",
-        "Name": "Ajutine peatus",
-        "id": "16017-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74137,
-          59.4273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1241",
         "Name": "Koidu",
         "id": "11102-1"
@@ -12943,6 +12928,21 @@
         "coordinates": [
           24.72955,
           59.42923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6715",
+        "Name": "Kosmos (ajutine)",
+        "id": "16017-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74137,
+          59.4273
         ]
       }
     },
