@@ -6934,6 +6934,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6193",
+        "Name": "Redise",
+        "id": "47365-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61368,
+          59.34773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6522",
         "Name": "Saunapunkt",
         "id": "23433-1"
