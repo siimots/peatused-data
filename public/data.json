@@ -4565,7 +4565,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "10497",
-        "Name": "Graniidi",
+        "Name": "Graniidi 1",
         "id": "23196-1"
       },
       "geometry": {
@@ -27125,7 +27125,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "4421",
-        "Name": "Poepeatus",
+        "Name": "Poe",
         "id": "23704-1"
       },
       "geometry": {
@@ -27140,7 +27140,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6477",
-        "Name": "Poepeatus",
+        "Name": "Poe",
         "id": "23710-1"
       },
       "geometry": {
