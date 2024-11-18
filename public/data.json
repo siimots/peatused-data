@@ -3469,6 +3469,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6752",
+        "Name": "Graniidi 3",
+        "id": "23199-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84522,
+          59.37802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14836",
         "Name": "Jaani",
         "id": "43162-1"
@@ -5443,6 +5458,21 @@
         "coordinates": [
           24.90175,
           59.34051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6751",
+        "Name": "Graniidi 2",
+        "id": "23198-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84336,
+          59.37921
         ]
       }
     },
@@ -20473,6 +20503,21 @@
         "coordinates": [
           24.63444,
           59.37527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6759",
+        "Name": "Laane (ajutine)",
+        "id": "16019-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64787,
+          59.37716
         ]
       }
     },
