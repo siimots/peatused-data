@@ -3469,6 +3469,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6751",
+        "Name": "Graniidi 2",
+        "id": "23198-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.84336,
+          59.37921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6752",
         "Name": "Graniidi 3",
         "id": "23199-1"
@@ -5458,21 +5473,6 @@
         "coordinates": [
           24.90175,
           59.34051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6751",
-        "Name": "Graniidi 2",
-        "id": "23198-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.84336,
-          59.37921
         ]
       }
     },
@@ -8794,6 +8794,66 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6761",
+        "Name": "Mäeküla",
+        "id": "10620-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61384,
+          59.39084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6762",
+        "Name": "Rehelepa",
+        "id": "10621-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61536,
+          59.39371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6763",
+        "Name": "Veerme",
+        "id": "10622-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60804,
+          59.39758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6764",
+        "Name": "Veerme",
+        "id": "10623-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60886,
+          59.39721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "850",
         "Name": "Astangu",
         "id": "01902-1"
@@ -10669,6 +10729,66 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5793",
+        "Name": "Linnahall",
+        "id": "12229-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75517,
+          59.44491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5795",
+        "Name": "Linnahall",
+        "id": "12230-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75494,
+          59.44501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1364",
+        "Name": "Vanasadam",
+        "id": "12227-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75928,
+          59.44414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1368",
+        "Name": "Vanasadam",
+        "id": "12228-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75957,
+          59.44425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6122",
         "Name": "Varre",
         "id": "00011-1"
@@ -10738,6 +10858,21 @@
         "coordinates": [
           24.75786,
           59.43454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "106",
+        "Name": "A. Laikmaa",
+        "id": "12224-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75746,
+          59.43662
         ]
       }
     },
@@ -10828,6 +10963,21 @@
         "coordinates": [
           24.76009,
           59.43945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5796",
+        "Name": "A. Laikmaa",
+        "id": "12231-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75731,
+          59.43613
         ]
       }
     },
@@ -11518,6 +11668,36 @@
         "coordinates": [
           24.78381,
           59.43145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "108",
+        "Name": "Laeva",
+        "id": "12225-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75827,
+          59.44084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "109",
+        "Name": "Laeva",
+        "id": "12226-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75795,
+          59.44061
         ]
       }
     },
@@ -12785,7 +12965,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1225",
-        "Name": "Linnahall",
+        "Name": "Suur Rannavärav",
         "id": "10601-1"
       },
       "geometry": {
@@ -12800,14 +12980,14 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1226",
-        "Name": "Linnahall",
+        "Name": "Suur Rannavärav",
         "id": "10602-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75014,
-          59.44346
+          24.75029,
+          59.44343
         ]
       }
     },
