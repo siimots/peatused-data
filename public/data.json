@@ -7009,6 +7009,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6747",
+        "Name": "Tiiri",
+        "id": "47530-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5632,
+          59.35341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6748",
+        "Name": "Tiiri",
+        "id": "47531-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56251,
+          59.35315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "3651",
         "Name": "Urda jaam",
         "id": "47335-1"
@@ -8801,8 +8831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61384,
-          59.39084
+          24.61386,
+          59.3909
         ]
       }
     },
@@ -8816,8 +8846,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61536,
-          59.39371
+          24.61542,
+          59.39357
         ]
       }
     },
@@ -8832,7 +8862,7 @@
         "type": "Point",
         "coordinates": [
           24.60804,
-          59.39758
+          59.39753
         ]
       }
     },
@@ -8846,8 +8876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.60886,
-          59.39721
+          24.6094,
+          59.39706
         ]
       }
     },
@@ -10723,21 +10753,6 @@
         "coordinates": [
           24.74018,
           59.41995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5793",
-        "Name": "Linnahall",
-        "id": "12229-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75517,
-          59.44491
         ]
       }
     },
@@ -13069,6 +13084,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5793",
+        "Name": "Linnahall",
+        "id": "12229-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75517,
+          59.44491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5501",
         "Name": "Tornimäe",
         "id": "12307-1"
@@ -13093,21 +13123,6 @@
         "coordinates": [
           24.76136,
           59.43319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "33185",
-        "Name": "Reisisadama A-terminal",
-        "id": "10618-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76078,
-          59.44468
         ]
       }
     },
