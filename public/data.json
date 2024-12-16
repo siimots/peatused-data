@@ -10759,6 +10759,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5793",
+        "Name": "Linnahall",
+        "id": "12229-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75517,
+          59.44491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5795",
         "Name": "Linnahall",
         "id": "12230-1"
@@ -12979,6 +12994,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6668",
+        "Name": "Rannamäe tee",
+        "id": "00192-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75115,
+          59.44266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1225",
         "Name": "Suur Rannavärav",
         "id": "10601-1"
@@ -13078,21 +13108,6 @@
         "coordinates": [
           24.77202,
           59.44158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5793",
-        "Name": "Linnahall",
-        "id": "12229-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75517,
-          59.44491
         ]
       }
     },
@@ -23996,8 +24011,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.68718,
-          59.44184
+          24.68748,
+          59.44177
         ]
       }
     },
@@ -26246,8 +26261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.86895,
-          59.50111
+          24.86935,
+          59.50084
         ]
       }
     },
