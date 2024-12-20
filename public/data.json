@@ -19,21 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6569",
-        "Name": "Kõue",
-        "id": "47231-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.49237,
-          59.44321
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6050",
         "Name": "Künka tee",
         "id": "47232-1"
