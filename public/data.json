@@ -12559,36 +12559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1228",
-        "Name": "Reisisadama A-terminal",
-        "id": "10606-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76004,
-          59.44461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "13603",
-        "Name": "Reisisadama A-terminal",
-        "id": "10609-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75956,
-          59.44454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1241",
         "Name": "Koidu",
         "id": "11102-1"
