@@ -79,6 +79,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6714",
+        "Name": "Lutsu",
+        "id": "47234-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6094,
+          59.41135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6255",
         "Name": "Meriküla",
         "id": "47227-1"
@@ -25423,21 +25438,6 @@
         "coordinates": [
           24.73748,
           59.43975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1982",
-        "Name": "Balti jaam (train station)",
-        "id": "21103-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.73649,
-          59.43935
         ]
       }
     },
