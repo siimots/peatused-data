@@ -1369,6 +1369,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6780",
+        "Name": "Rootsi-Kallavere",
+        "id": "24107-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03314,
+          59.49012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6781",
+        "Name": "Rootsi-Kallavere",
+        "id": "24108-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.03392,
+          59.49031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6498",
         "Name": "Uuesauna",
         "id": "24518-1"
@@ -6695,7 +6725,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6417",
-        "Name": "Arunõmme",
+        "Name": "Arunõmme tee",
         "id": "23849-1"
       },
       "geometry": {
