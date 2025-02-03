@@ -3515,7 +3515,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6751",
-        "Name": "Graniidi 2",
+        "Name": "Graniidi",
         "id": "23198-1"
       },
       "geometry": {
@@ -3530,7 +3530,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6752",
-        "Name": "Graniidi 3",
+        "Name": "Graniidi",
         "id": "23199-1"
       },
       "geometry": {
@@ -4640,7 +4640,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "10497",
-        "Name": "Graniidi 1",
+        "Name": "Graniidi",
         "id": "23196-1"
       },
       "geometry": {
