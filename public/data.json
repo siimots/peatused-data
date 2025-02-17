@@ -20569,6 +20569,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6784",
+        "Name": "Särje (ajutine)",
+        "id": "00010-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64244,
+          59.37963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6785",
+        "Name": "Särje (ajutine)",
+        "id": "00009-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64285,
+          59.37972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "934",
         "Name": "Hommiku",
         "id": "03704-1"
