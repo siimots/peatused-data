@@ -1811,8 +1811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.99095,
-          59.47944
+          24.99179,
+          59.47946
         ]
       }
     },
@@ -1826,8 +1826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.99169,
-          59.47937
+          24.99109,
+          59.47935
         ]
       }
     },
@@ -2666,8 +2666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.93275,
-          59.48142
+          24.93217,
+          59.48139
         ]
       }
     },
@@ -2681,8 +2681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.93231,
-          59.48134
+          24.93347,
+          59.48148
         ]
       }
     },
@@ -11419,6 +11419,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6786",
+        "Name": "Bussijaam (ajutine)",
+        "id": "11612-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77271,
+          59.42672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1261",
         "Name": "Bussijaam (bus station)",
         "id": "11601-1"
@@ -13183,6 +13198,21 @@
         "coordinates": [
           24.76136,
           59.43319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3652",
+        "Name": "Linnahall (ajutine)",
+        "id": "10619-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74949,
+          59.44307
         ]
       }
     },
