@@ -186,13 +186,6 @@ const fetchRoutes = () => {
       var result = toGeoJSONCollection(parsedData, true, false); // with id & without routes
       //var result = toGeoJSONCollection(parsedData, true, true); // with id & routes
 
-      writeFile(
-        "public/peatused.js",
-        `var peatused = ${JSON.stringify(result)};`,
-        (err) => {
-          if (err) throw err;
-        },
-      );
       writeFile("public/data.json", JSON.stringify(result, null, 2), (err) => {
         if (err) throw err;
       });
