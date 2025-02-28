@@ -6574,6 +6574,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6530",
+        "Name": "Käokeele",
+        "id": "47503-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59798,
+          59.36503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6531",
         "Name": "Käokeele",
         "id": "47504-1"
@@ -6784,6 +6799,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6748",
+        "Name": "Tiiri",
+        "id": "47531-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56251,
+          59.35315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "3651",
         "Name": "Urda jaam",
         "id": "47335-1"
@@ -6829,6 +6859,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6724",
+        "Name": "Vahtramäe",
+        "id": "47528-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55502,
+          59.36117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6725",
         "Name": "Vahtramäe",
         "id": "47529-1"
@@ -6868,6 +6913,21 @@
         "coordinates": [
           24.603,
           59.36396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6529",
+        "Name": "Väriheina",
+        "id": "47502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60311,
+          59.36376
         ]
       }
     },
@@ -7078,6 +7138,21 @@
         "coordinates": [
           24.55603,
           59.34205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4410",
+        "Name": "Seltsimaja",
+        "id": "47333-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5559,
+          59.34204
         ]
       }
     },
@@ -7489,6 +7564,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "52",
+        "Name": "Karutiigi",
+        "id": "23390-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57322,
+          59.35479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "53",
         "Name": "Karutiigi",
         "id": "23391-1"
@@ -7498,6 +7588,21 @@
         "coordinates": [
           24.57324,
           59.3546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "54",
+        "Name": "Koru",
+        "id": "23392-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59772,
+          59.34975
         ]
       }
     },
@@ -7993,6 +8098,21 @@
         "coordinates": [
           24.50185,
           59.31704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4954",
+        "Name": "Pähklisalu tee",
+        "id": "23333-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49981,
+          59.3171
         ]
       }
     },
