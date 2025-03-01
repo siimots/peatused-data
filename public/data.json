@@ -11149,6 +11149,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6787",
+        "Name": "Bussijaam (ajutine)",
+        "id": "11613-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77739,
+          59.43042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6786",
+        "Name": "Bussijaam (ajutine)",
+        "id": "11612-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77271,
+          59.42672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1261",
         "Name": "Bussijaam (bus station)",
         "id": "11601-1"
