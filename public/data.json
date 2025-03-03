@@ -5539,6 +5539,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6629",
+        "Name": "Sepa",
+        "id": "23267-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62722,
+          59.29213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6418",
         "Name": "Uusmäe",
         "id": "23850-1"
@@ -5563,6 +5578,21 @@
         "coordinates": [
           24.66153,
           59.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6615",
+        "Name": "Ürdi",
+        "id": "23265-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63742,
+          59.2896
         ]
       }
     },
@@ -5758,6 +5788,141 @@
         "coordinates": [
           24.6224,
           59.34459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6605",
+        "Name": "Kristjani",
+        "id": "23857-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62315,
+          59.28799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6606",
+        "Name": "Kristjani",
+        "id": "23858-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62273,
+          59.28846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6608",
+        "Name": "Kõrgemäe",
+        "id": "23862-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60876,
+          59.29735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6609",
+        "Name": "Kõrgemäe",
+        "id": "23861-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60919,
+          59.29688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6610",
+        "Name": "Lageda tee",
+        "id": "23863-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59325,
+          59.29985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6611",
+        "Name": "Lageda tee",
+        "id": "23864-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59302,
+          59.30033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6625",
+        "Name": "Saue küla",
+        "id": "23865-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5774,
+          59.30806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6626",
+        "Name": "Saue küla",
+        "id": "23866-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57741,
+          59.30821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6624",
+        "Name": "Ringtee rist",
+        "id": "23868-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60608,
+          59.31199
         ]
       }
     },
@@ -6013,6 +6178,111 @@
         "coordinates": [
           24.61678,
           59.34141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6632",
+        "Name": "Jalaka",
+        "id": "23269-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63688,
+          59.28638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6633",
+        "Name": "Jalaka",
+        "id": "23270-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63587,
+          59.2863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6617",
+        "Name": "Karukella",
+        "id": "23870-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.57523,
+          59.28894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6544",
+        "Name": "Lukussepa",
+        "id": "23854-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64876,
+          59.29036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6612",
+        "Name": "Lukussepa",
+        "id": "23856-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64852,
+          59.29047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6620",
+        "Name": "Rahula",
+        "id": "23869-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.56598,
+          59.29338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6627",
+        "Name": "Üksnurme mõis",
+        "id": "23860-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.62942,
+          59.28331
         ]
       }
     },
@@ -12103,21 +12373,6 @@
         "coordinates": [
           24.77481,
           59.42785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5954",
-        "Name": "Bussijaam (bus station)",
-        "id": "11602-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7755,
-          59.42803
         ]
       }
     },
