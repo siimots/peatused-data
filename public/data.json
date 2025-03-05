@@ -12364,21 +12364,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1262",
-        "Name": "Bussijaam (bus station)",
-        "id": "11602-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77481,
-          59.42785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1236",
         "Name": "Hotell Tallinn",
         "id": "10901-1"
