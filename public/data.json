@@ -24229,36 +24229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5692",
-        "Name": "Maleva",
-        "id": "09405-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68924,
-          59.45509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1152",
-        "Name": "Marati",
-        "id": "09101-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67656,
-          59.4573
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1774",
         "Name": "Marati",
         "id": "09108-1"
@@ -24283,21 +24253,6 @@
         "coordinates": [
           24.67583,
           59.45783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5690",
-        "Name": "Marati",
-        "id": "09110-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67541,
-          59.45804
         ]
       }
     },
@@ -24379,36 +24334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5691",
-        "Name": "Sepa",
-        "id": "09008-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67175,
-          59.45974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1153",
-        "Name": "Sirbi",
-        "id": "09102-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68277,
-          59.45466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1154",
         "Name": "Sirbi",
         "id": "09103-1"
@@ -24418,21 +24343,6 @@
         "coordinates": [
           24.68132,
           59.45502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1155",
-        "Name": "Sirbi",
-        "id": "09104-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68169,
-          59.45489
         ]
       }
     },
