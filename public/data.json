@@ -9484,6 +9484,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5883",
+        "Name": "Haabersti ring",
+        "id": "00602-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64293,
+          59.42387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "813",
         "Name": "Sõba",
         "id": "00306-1"
