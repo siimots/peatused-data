@@ -6649,21 +6649,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5018",
-        "Name": "Õlletehase",
-        "id": "23255-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66868,
-          59.30234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "9963",
         "Name": "Teaduse",
         "id": "23275-1"
@@ -6808,6 +6793,21 @@
         "coordinates": [
           24.64478,
           59.34523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5018",
+        "Name": "Õlletehase",
+        "id": "23255-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66864,
+          59.30234
         ]
       }
     },
