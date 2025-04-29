@@ -7219,21 +7219,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "15",
-        "Name": "Padula",
-        "id": "23373-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.59284,
-          59.33788
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "10746",
         "Name": "Saue",
         "id": "23424-1"
@@ -11171,7 +11156,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.74642,
+          24.74649,
           59.43304
         ]
       }
@@ -13586,7 +13571,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75259,
+          24.75258,
           59.43386
         ]
       }
@@ -13601,8 +13586,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75195,
-          59.43352
+          24.75192,
+          59.43353
         ]
       }
     },
