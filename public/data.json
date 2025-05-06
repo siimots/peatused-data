@@ -6844,6 +6844,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6530",
+        "Name": "Käokeele",
+        "id": "47503-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59798,
+          59.36503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6531",
         "Name": "Käokeele",
         "id": "47504-1"
@@ -7084,6 +7099,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6647",
+        "Name": "Vabaõhukeskuse",
+        "id": "47516-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54148,
+          59.32971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6650",
+        "Name": "Vabaõhukeskuse",
+        "id": "47519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.54058,
+          59.32971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6724",
         "Name": "Vahtramäe",
         "id": "47528-1"
@@ -7144,6 +7189,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6529",
+        "Name": "Väriheina",
+        "id": "47502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60311,
+          59.36376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14",
         "Name": "Padula",
         "id": "23372-1"
@@ -7153,21 +7213,6 @@
         "coordinates": [
           24.59126,
           59.3375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "15",
-        "Name": "Padula",
-        "id": "23373-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.59284,
-          59.33788
         ]
       }
     },
@@ -8284,6 +8329,51 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "12979",
+        "Name": "Kiviloo",
+        "id": "23411-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55562,
+          59.31059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4953",
+        "Name": "Pähklisalu tee",
+        "id": "23334-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.50185,
+          59.31704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4954",
+        "Name": "Pähklisalu tee",
+        "id": "23333-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49981,
+          59.3171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4974",
         "Name": "Noortekeskus",
         "id": "23402-1"
@@ -8509,6 +8599,81 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "4411",
+        "Name": "Jalaka tee",
+        "id": "47334-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51211,
+          59.31917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4420",
+        "Name": "Jalaka tee",
+        "id": "47336-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51258,
+          59.31916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4116",
+        "Name": "Tuuleveski",
+        "id": "47308-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51138,
+          59.32246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "4117",
+        "Name": "Tuuleveski",
+        "id": "23379-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51123,
+          59.32247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "46",
+        "Name": "Vanamõisa mõis",
+        "id": "23383-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.51391,
+          59.325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "13359",
         "Name": "Kodasema",
         "id": "23371-1"
@@ -8608,6 +8773,36 @@
         "coordinates": [
           24.62355,
           59.35123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6648",
+        "Name": "Viirpuu",
+        "id": "47517-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53852,
+          59.32235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6649",
+        "Name": "Viirpuu",
+        "id": "47518-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53824,
+          59.32236
         ]
       }
     },
