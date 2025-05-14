@@ -7219,6 +7219,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "15",
+        "Name": "Padula",
+        "id": "23373-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59284,
+          59.33788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10746",
         "Name": "Saue",
         "id": "23424-1"
@@ -12358,6 +12373,21 @@
         "coordinates": [
           24.77133,
           59.43837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1262",
+        "Name": "Bussijaam (bus station)",
+        "id": "11602-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77481,
+          59.42785
         ]
       }
     },
