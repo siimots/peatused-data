@@ -6649,6 +6649,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5018",
+        "Name": "Õlletehase",
+        "id": "23255-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66864,
+          59.30234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9963",
         "Name": "Teaduse",
         "id": "23275-1"
@@ -6793,21 +6808,6 @@
         "coordinates": [
           24.64478,
           59.34523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5018",
-        "Name": "Õlletehase",
-        "id": "23255-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66864,
-          59.30234
         ]
       }
     },
@@ -7391,8 +7391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.54886,
-          59.33162
+          24.54864,
+          59.33133
         ]
       }
     },
@@ -7466,8 +7466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.55624,
-          59.35654
+          24.55609,
+          59.35672
         ]
       }
     },
@@ -7601,8 +7601,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.61959,
-          59.35038
+          24.61946,
+          59.35011
         ]
       }
     },
@@ -8201,8 +8201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.55539,
-          59.34141
+          24.55516,
+          59.34104
         ]
       }
     },
@@ -8801,8 +8801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.53852,
-          59.32235
+          24.53809,
+          59.32225
         ]
       }
     },
@@ -8863,51 +8863,6 @@
         "coordinates": [
           24.65512,
           59.42676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6762",
-        "Name": "Rehelepa",
-        "id": "10621-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.61542,
-          59.39357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6763",
-        "Name": "Veerme",
-        "id": "10622-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.60804,
-          59.39753
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6764",
-        "Name": "Veerme",
-        "id": "10623-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6094,
-          59.39706
         ]
       }
     },
@@ -9634,6 +9589,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6763",
+        "Name": "Veerme",
+        "id": "10622-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60804,
+          59.39753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6764",
+        "Name": "Veerme",
+        "id": "10623-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6094,
+          59.39706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "821",
         "Name": "Haabersti",
         "id": "00701-1"
@@ -10048,6 +10033,21 @@
         "coordinates": [
           24.6182,
           59.42929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6762",
+        "Name": "Rehelepa",
+        "id": "10621-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.61542,
+          59.39357
         ]
       }
     },
@@ -10819,36 +10819,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5793",
-        "Name": "Linnahall",
-        "id": "12229-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75517,
-          59.44491
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5795",
-        "Name": "Linnahall",
-        "id": "12230-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75494,
-          59.44501
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1364",
         "Name": "Vanasadam",
         "id": "12227-1"
@@ -11428,36 +11398,6 @@
         "coordinates": [
           24.78564,
           59.4401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6787",
-        "Name": "Bussijaam (ajutine)",
-        "id": "11613-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77739,
-          59.43042
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6786",
-        "Name": "Bussijaam (ajutine)",
-        "id": "11612-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77271,
-          59.42672
         ]
       }
     },
@@ -13183,6 +13123,36 @@
         "coordinates": [
           24.77202,
           59.44158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5793",
+        "Name": "Linnahall",
+        "id": "12229-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75517,
+          59.44491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5795",
+        "Name": "Linnahall",
+        "id": "12230-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75494,
+          59.44501
         ]
       }
     },
@@ -15928,6 +15898,36 @@
         "coordinates": [
           24.82854,
           59.43683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6812",
+        "Name": "Laulupidu",
+        "id": "00190-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82035,
+          59.44542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6813",
+        "Name": "Laulupidu",
+        "id": "00193-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81788,
+          59.44488
         ]
       }
     },
@@ -19069,15 +19069,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "877",
-        "Name": "Retke tee",
-        "id": "02605-1"
+        "SiriID": "6810",
+        "Name": "Retke tee (ajutine peatus)",
+        "id": "00181-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7066,
-          59.40361
+          24.70898,
+          59.40292
         ]
       }
     },
@@ -20629,6 +20629,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "933",
+        "Name": "Hommiku",
+        "id": "03703-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63679,
+          59.37949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "934",
         "Name": "Hommiku",
         "id": "03704-1"
@@ -20638,6 +20653,36 @@
         "coordinates": [
           24.63641,
           59.37893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "935",
+        "Name": "Kalda",
+        "id": "03705-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63805,
+          59.38231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "936",
+        "Name": "Kalda",
+        "id": "03706-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63829,
+          59.38242
         ]
       }
     },
