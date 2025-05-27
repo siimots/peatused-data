@@ -11434,6 +11434,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6814",
+        "Name": "Hotell Olümpia",
+        "id": "13104-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75811,
+          59.42932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1343",
         "Name": "Püssirohu",
         "id": "12903-1"
@@ -18694,6 +18709,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6819",
+        "Name": "Kumu (ajutine peatus)",
+        "id": "00196-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79953,
+          59.43677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1439",
         "Name": "Uuslinn",
         "id": "15107-1"
@@ -23818,6 +23848,21 @@
         "coordinates": [
           24.89083,
           59.48138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6833",
+        "Name": "Ajutine peatus",
+        "id": "13105-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67675,
+          59.46107
         ]
       }
     },
