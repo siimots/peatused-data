@@ -6934,6 +6934,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6830",
+        "Name": "Miku",
+        "id": "47535-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55774,
+          59.33551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6831",
+        "Name": "Miku",
+        "id": "47536-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.55862,
+          59.33545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6448",
         "Name": "Möldre kool",
         "id": "47398-1"
@@ -11854,21 +11884,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6716",
-        "Name": "Kosmos (ajutine)",
-        "id": "16018-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74513,
-          59.42741
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1327",
         "Name": "Liivalaia",
         "id": "12503-1"
@@ -11878,6 +11893,21 @@
         "coordinates": [
           24.74938,
           59.42807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6716",
+        "Name": "Võllamägi",
+        "id": "16018-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74513,
+          59.42741
         ]
       }
     },
@@ -13220,7 +13250,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "6715",
-        "Name": "Kosmos (ajutine)",
+        "Name": "Uus Maailm",
         "id": "16017-1"
       },
       "geometry": {
@@ -20899,23 +20929,8 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1035",
-        "Name": "Liiva",
-        "id": "06406-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71944,
-          59.38841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1037",
-        "Name": "Liiva jaam",
+        "Name": "Leesika",
         "id": "06408-1"
       },
       "geometry": {
@@ -20930,7 +20945,7 @@
       "type": "Feature",
       "properties": {
         "SiriID": "1038",
-        "Name": "Liiva jaam",
+        "Name": "Leesika",
         "id": "06409-1"
       },
       "geometry": {
@@ -20938,6 +20953,21 @@
         "coordinates": [
           24.71771,
           59.38686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1035",
+        "Name": "Liiva",
+        "id": "06406-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71944,
+          59.38841
         ]
       }
     },
@@ -23848,21 +23878,6 @@
         "coordinates": [
           24.89083,
           59.48138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6833",
-        "Name": "Ajutine peatus",
-        "id": "13105-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67675,
-          59.46107
         ]
       }
     },
