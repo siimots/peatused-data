@@ -3019,36 +3019,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "10861",
-        "Name": "Kulli",
-        "id": "41314-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.00417,
-          59.38346
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10862",
-        "Name": "Kulli",
-        "id": "41313-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.00321,
-          59.38347
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4956",
         "Name": "Arestimaja",
         "id": "23930-1"
@@ -3823,36 +3793,6 @@
         "coordinates": [
           24.83229,
           59.3338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10865",
-        "Name": "Lagedi",
-        "id": "43157-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.9317,
-          59.39975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10866",
-        "Name": "Lagedi",
-        "id": "43158-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.9323,
-          59.39931
         ]
       }
     },
@@ -14023,36 +13963,6 @@
         "coordinates": [
           24.86183,
           59.44375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10877",
-        "Name": "Ülemiste",
-        "id": "13411-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79508,
-          59.42338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "10878",
-        "Name": "Ülemiste",
-        "id": "13412-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79581,
-          59.4233
         ]
       }
     },
