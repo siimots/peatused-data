@@ -5854,6 +5854,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "15",
+        "Name": "Padula",
+        "id": "23373-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59284,
+          59.33788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10746",
         "Name": "Saue",
         "id": "23424-1"
