@@ -22099,6 +22099,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6833",
+        "Name": "Kopli liinid (ajutine)",
+        "id": "13105-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67675,
+          59.46107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4560",
         "Name": "Miinisadam",
         "id": "10615-1"
@@ -22363,6 +22378,21 @@
         "coordinates": [
           24.68748,
           59.44177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6687",
+        "Name": "Kopli (ajutine)",
+        "id": "09009-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6695,
+          59.46106
         ]
       }
     },
@@ -23503,6 +23533,21 @@
         "coordinates": [
           24.71134,
           59.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6789",
+        "Name": "Sepa (ajutine)",
+        "id": "00007-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67162,
+          59.46017
         ]
       }
     },
