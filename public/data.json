@@ -22564,21 +22564,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5692",
-        "Name": "Maleva",
-        "id": "09405-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68924,
-          59.45509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1152",
         "Name": "Marati",
         "id": "09101-1"
@@ -22903,81 +22888,6 @@
         "coordinates": [
           24.69161,
           59.4486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6308",
-        "Name": "Kopli liinid",
-        "id": "00157-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67744,
-          59.46057
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6309",
-        "Name": "Maleva",
-        "id": "00158-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6892,
-          59.45605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6790",
-        "Name": "Maleva (ajutine)",
-        "id": "00006-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68888,
-          59.45599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6306",
-        "Name": "Neeme",
-        "id": "00155-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6839,
-          59.45871
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6307",
-        "Name": "Neeme",
-        "id": "00156-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.685,
-          59.45815
         ]
       }
     },
