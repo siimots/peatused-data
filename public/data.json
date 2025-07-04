@@ -4759,6 +4759,51 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6471",
+        "Name": "Saku Raudteejaam",
+        "id": "23271-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67613,
+          59.30118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9963",
+        "Name": "Teaduse",
+        "id": "23275-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66034,
+          59.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9964",
+        "Name": "Teaduse",
+        "id": "23276-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66044,
+          59.29605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6418",
         "Name": "Uusmäe",
         "id": "23850-1"
@@ -4798,21 +4843,6 @@
         "coordinates": [
           24.67606,
           59.30114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6471",
-        "Name": "Saku Raudteejaam",
-        "id": "23271-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67613,
-          59.30118
         ]
       }
     },
@@ -5419,36 +5449,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "9963",
-        "Name": "Teaduse",
-        "id": "23275-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66034,
-          59.296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9964",
-        "Name": "Teaduse",
-        "id": "23276-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66044,
-          59.29605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5010",
         "Name": "Tiigi",
         "id": "23235-1"
@@ -5848,21 +5848,6 @@
         "coordinates": [
           24.59126,
           59.3375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "15",
-        "Name": "Padula",
-        "id": "23373-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.59284,
-          59.33788
         ]
       }
     },
@@ -14188,6 +14173,21 @@
         "coordinates": [
           24.81788,
           59.44488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6818",
+        "Name": "Laulupidu",
+        "id": "00195-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81867,
+          59.44564
         ]
       }
     },
