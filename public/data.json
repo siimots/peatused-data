@@ -4759,51 +4759,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6471",
-        "Name": "Saku Raudteejaam",
-        "id": "23271-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67613,
-          59.30118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9963",
-        "Name": "Teaduse",
-        "id": "23275-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66034,
-          59.296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9964",
-        "Name": "Teaduse",
-        "id": "23276-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66044,
-          59.29605
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6418",
         "Name": "Uusmäe",
         "id": "23850-1"
@@ -4843,6 +4798,21 @@
         "coordinates": [
           24.67606,
           59.30114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6471",
+        "Name": "Saku Raudteejaam",
+        "id": "23271-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67613,
+          59.30118
         ]
       }
     },
@@ -5443,6 +5413,36 @@
         "coordinates": [
           24.66864,
           59.30234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9963",
+        "Name": "Teaduse",
+        "id": "23275-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66034,
+          59.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9964",
+        "Name": "Teaduse",
+        "id": "23276-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66044,
+          59.29605
         ]
       }
     },
@@ -10783,6 +10783,21 @@
         "coordinates": [
           24.75011,
           59.44347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5821",
+        "Name": "Linnahall",
+        "id": "10617-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74722,
+          59.44427
         ]
       }
     },
@@ -23188,6 +23203,21 @@
         "coordinates": [
           24.74124,
           59.44372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3978",
+        "Name": "Põhja puiestee",
+        "id": "09910-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74344,
+          59.44395
         ]
       }
     },
