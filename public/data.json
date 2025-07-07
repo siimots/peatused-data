@@ -5854,6 +5854,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "15",
+        "Name": "Padula",
+        "id": "23373-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59284,
+          59.33788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "10746",
         "Name": "Saue",
         "id": "23424-1"
@@ -10789,21 +10804,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5821",
-        "Name": "Linnahall",
-        "id": "10617-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74722,
-          59.44427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1082",
         "Name": "Hallivanamehe",
         "id": "07404-1"
@@ -14188,21 +14188,6 @@
         "coordinates": [
           24.81788,
           59.44488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6818",
-        "Name": "Laulupidu",
-        "id": "00195-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81867,
-          59.44564
         ]
       }
     },
@@ -23203,21 +23188,6 @@
         "coordinates": [
           24.74124,
           59.44372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3978",
-        "Name": "Põhja puiestee",
-        "id": "09910-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74344,
-          59.44395
         ]
       }
     },
