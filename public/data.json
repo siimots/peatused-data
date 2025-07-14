@@ -16954,21 +16954,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6819",
-        "Name": "Kumu (ajutine peatus)",
-        "id": "00196-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79953,
-          59.43677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1439",
         "Name": "Uuslinn",
         "id": "15107-1"
