@@ -9619,6 +9619,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6857",
+        "Name": "Laeva (ajutine)",
+        "id": "00012-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75909,
+          59.439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1300",
         "Name": "Hobujaama",
         "id": "12206-1"
@@ -10003,21 +10018,6 @@
         "coordinates": [
           24.78381,
           59.43145
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "108",
-        "Name": "Laeva",
-        "id": "12225-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75827,
-          59.44084
         ]
       }
     },
