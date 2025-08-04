@@ -22129,21 +22129,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6833",
-        "Name": "Kopli liinid (ajutine)",
-        "id": "13105-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67675,
-          59.46107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4560",
         "Name": "Miinisadam",
         "id": "10615-1"
@@ -22414,21 +22399,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6687",
-        "Name": "Kopli (ajutine)",
-        "id": "09009-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6695,
-          59.46106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1183",
         "Name": "Angerja",
         "id": "09802-1"
@@ -22588,6 +22558,21 @@
         "coordinates": [
           24.68907,
           59.45513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5692",
+        "Name": "Maleva",
+        "id": "09405-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68924,
+          59.45509
         ]
       }
     },
@@ -22918,6 +22903,66 @@
         "coordinates": [
           24.69161,
           59.4486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6308",
+        "Name": "Kopli liinid",
+        "id": "00157-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67744,
+          59.46057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6309",
+        "Name": "Maleva",
+        "id": "00158-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6892,
+          59.45605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6306",
+        "Name": "Neeme",
+        "id": "00155-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6839,
+          59.45871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6307",
+        "Name": "Neeme",
+        "id": "00156-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.685,
+          59.45815
         ]
       }
     },
@@ -23479,21 +23524,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6789",
-        "Name": "Sepa (ajutine)",
-        "id": "00007-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67162,
-          59.46017
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1167",
         "Name": "Niidi",
         "id": "09404-1"
@@ -23683,21 +23713,6 @@
         "coordinates": [
           24.69751,
           59.44932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1166",
-        "Name": "Maleva (ajutine)",
-        "id": "09403-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.69031,
-          59.45449
         ]
       }
     },
