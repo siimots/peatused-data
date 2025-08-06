@@ -9626,8 +9626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.75909,
-          59.439
+          24.75903,
+          59.43932
         ]
       }
     },
@@ -14413,36 +14413,6 @@
         "coordinates": [
           24.88652,
           59.44639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6861",
-        "Name": "Lennujaam (ajutine)",
-        "id": "00014-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79874,
-          59.41923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6862",
-        "Name": "Lennujaam (ajutine)",
-        "id": "00015-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79889,
-          59.41916
         ]
       }
     },
