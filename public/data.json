@@ -16309,21 +16309,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6061",
-        "Name": "Mustakivisilla",
-        "id": "16011-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.86642,
-          59.43998
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6062",
         "Name": "Mustakivisilla",
         "id": "16012-1"
