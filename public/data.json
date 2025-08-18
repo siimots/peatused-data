@@ -14839,51 +14839,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "708",
-        "Name": "Lennujaam (airport)",
-        "id": "13513-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79954,
-          59.41814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5720",
-        "Name": "Lennujaam (airport)",
-        "id": "13514-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79845,
-          59.41843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5721",
-        "Name": "Lennujaam (airport)",
-        "id": "13513-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79905,
-          59.41821
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1461",
         "Name": "Loitsu",
         "id": "15701-1"
