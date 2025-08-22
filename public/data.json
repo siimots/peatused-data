@@ -11464,6 +11464,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3652",
+        "Name": "Linnahall (ajutine)",
+        "id": "10619-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74949,
+          59.44307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1241",
         "Name": "Koidu",
         "id": "11102-1"
@@ -13423,6 +13438,21 @@
         "coordinates": [
           24.70981,
           59.39665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3843",
+        "Name": "Energia",
+        "id": "06704-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71067,
+          59.39784
         ]
       }
     },
@@ -18373,6 +18403,66 @@
         "coordinates": [
           24.6635,
           59.3924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "878",
+        "Name": "Lastehaigla",
+        "id": "02701-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70603,
+          59.39945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "879",
+        "Name": "Lastehaigla",
+        "id": "02702-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70571,
+          59.39903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "874",
+        "Name": "Retke tee",
+        "id": "02602-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70656,
+          59.40243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "875",
+        "Name": "Retke tee",
+        "id": "02603-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70664,
+          59.40277
         ]
       }
     },
