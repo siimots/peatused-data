@@ -11464,21 +11464,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "3652",
-        "Name": "Linnahall (ajutine)",
-        "id": "10619-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74949,
-          59.44307
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1241",
         "Name": "Koidu",
         "id": "11102-1"
