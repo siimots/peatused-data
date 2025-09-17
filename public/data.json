@@ -15679,6 +15679,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6884",
+        "Name": "Pae (ajutine)",
+        "id": "14811-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7932,
+          59.42521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "14432",
         "Name": "Tähesaju tee",
         "id": "16108-1"
@@ -16864,6 +16879,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6897",
+        "Name": "Majaka põik (ajutine)",
+        "id": "00019-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79816,
+          59.42694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1418",
         "Name": "Majaka",
         "id": "14801-1"
@@ -16963,6 +16993,21 @@
         "coordinates": [
           24.79754,
           59.42629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6886",
+        "Name": "Majaka põik (ajutine)",
+        "id": "14812-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79634,
+          59.42668
         ]
       }
     },
@@ -17998,6 +18043,21 @@
         "coordinates": [
           24.80768,
           59.42655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6895",
+        "Name": "Väike-Paala (ajutine)",
+        "id": "00018-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81052,
+          59.42668
         ]
       }
     },
