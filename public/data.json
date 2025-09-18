@@ -1984,21 +1984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "12988",
-        "Name": "Kangru",
-        "id": "22053-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77397,
-          59.35384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "14571",
         "Name": "Kiili kool",
         "id": "22062-1"
@@ -2593,6 +2578,21 @@
         "coordinates": [
           25.01103,
           59.45219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5585",
+        "Name": "Muuga sadam",
+        "id": "19702-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96867,
+          59.48339
         ]
       }
     },
@@ -16984,21 +16984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1426",
-        "Name": "Majaka põik",
-        "id": "14903-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79754,
-          59.42629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6886",
         "Name": "Majaka põik (ajutine)",
         "id": "14812-1"
@@ -17443,21 +17428,6 @@
         "coordinates": [
           24.80634,
           59.42984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1430",
-        "Name": "Pae",
-        "id": "14907-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80122,
-          59.42686
         ]
       }
     },
