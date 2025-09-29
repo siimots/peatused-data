@@ -2299,6 +2299,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5045",
+        "Name": "Kangru",
+        "id": "22020-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77839,
+          59.35409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "5048",
         "Name": "Luige",
         "id": "22040-1"
@@ -2428,21 +2443,6 @@
         "coordinates": [
           24.77529,
           59.32513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5045",
-        "Name": "Kangru",
-        "id": "22020-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77839,
-          59.35409
         ]
       }
     },
