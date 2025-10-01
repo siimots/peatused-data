@@ -16279,36 +16279,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6861",
-        "Name": "Lennujaam (ajutine)",
-        "id": "00014-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79874,
-          59.41923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6862",
-        "Name": "Lennujaam (ajutine)",
-        "id": "00015-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79889,
-          59.41916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1394",
         "Name": "Kuuli",
         "id": "14402-1"
