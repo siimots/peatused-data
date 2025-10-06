@@ -15259,21 +15259,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "3843",
-        "Name": "Energia",
-        "id": "06704-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71067,
-          59.39784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1052",
         "Name": "Tuisu",
         "id": "06703-1"
@@ -20203,66 +20188,6 @@
         "coordinates": [
           24.6635,
           59.3924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "878",
-        "Name": "Lastehaigla",
-        "id": "02701-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70603,
-          59.39945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "879",
-        "Name": "Lastehaigla",
-        "id": "02702-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70571,
-          59.39903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "874",
-        "Name": "Retke tee",
-        "id": "02602-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70656,
-          59.40243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "875",
-        "Name": "Retke tee",
-        "id": "02603-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70664,
-          59.40277
         ]
       }
     },
@@ -26278,6 +26203,36 @@
         "coordinates": [
           24.92761,
           59.48746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6909",
+        "Name": "Muuga",
+        "id": "23722-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92855,
+          59.48694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6910",
+        "Name": "Muuga",
+        "id": "23723-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.92974,
+          59.48634
         ]
       }
     },
