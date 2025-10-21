@@ -6049,36 +6049,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13226",
-        "Name": "Männituka tee",
-        "id": "23296-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64137,
-          59.3091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "13227",
-        "Name": "Männituka tee",
-        "id": "23297-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64127,
-          59.30897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4293",
         "Name": "Nurme tee",
         "id": "23298-1"
@@ -6116,8 +6086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63345,
-          59.3089
+          24.63541,
+          59.30901
         ]
       }
     },
@@ -6131,8 +6101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.63351,
-          59.30881
+          24.63596,
+          59.30896
         ]
       }
     },
@@ -6868,6 +6838,36 @@
         "coordinates": [
           24.64478,
           59.34523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13226",
+        "Name": "Männituka tee",
+        "id": "23296-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64214,
+          59.30916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13227",
+        "Name": "Männituka tee",
+        "id": "23297-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64144,
+          59.309
         ]
       }
     },
