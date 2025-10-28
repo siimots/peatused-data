@@ -4324,6 +4324,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6912",
+        "Name": "Talle tee",
+        "id": "23970-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96197,
+          59.36884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6913",
+        "Name": "Talle tee",
+        "id": "23971-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.96208,
+          59.36907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6452",
         "Name": "Tammi",
         "id": "23965-1"
@@ -4369,15 +4399,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13678",
+        "SiriID": "28",
         "Name": "Uuesalu",
-        "id": "43161-1"
+        "id": "43122-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.81151,
-          59.36064
+          24.81326,
+          59.35938
         ]
       }
     },
@@ -7243,6 +7273,21 @@
         "coordinates": [
           24.55586,
           59.36093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5593",
+        "Name": "Vana-Arula",
+        "id": "23432-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.53405,
+          59.31363
         ]
       }
     },
@@ -15259,6 +15304,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3843",
+        "Name": "Energia",
+        "id": "06704-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71067,
+          59.39784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1052",
         "Name": "Tuisu",
         "id": "06703-1"
@@ -20218,6 +20278,66 @@
         "coordinates": [
           24.6635,
           59.3924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "878",
+        "Name": "Lastehaigla",
+        "id": "02701-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70603,
+          59.39945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "879",
+        "Name": "Lastehaigla",
+        "id": "02702-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70571,
+          59.39903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "874",
+        "Name": "Retke tee",
+        "id": "02602-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70656,
+          59.40243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "875",
+        "Name": "Retke tee",
+        "id": "02603-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70664,
+          59.40277
         ]
       }
     },
