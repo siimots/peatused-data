@@ -5584,6 +5584,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3867",
+        "Name": "Männiliiva",
+        "id": "27109-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66227,
+          59.32209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6534",
         "Name": "Saku algkool",
         "id": "23259-1"
