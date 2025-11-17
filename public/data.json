@@ -6094,6 +6094,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "13226",
+        "Name": "Männituka tee",
+        "id": "23296-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64214,
+          59.30916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "13227",
+        "Name": "Männituka tee",
+        "id": "23297-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64144,
+          59.309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "4293",
         "Name": "Nurme tee",
         "id": "23298-1"
@@ -6889,36 +6919,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "13226",
-        "Name": "Männituka tee",
-        "id": "23296-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64214,
-          59.30916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "13227",
-        "Name": "Männituka tee",
-        "id": "23297-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.64144,
-          59.309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6449",
         "Name": "Kauri",
         "id": "47399-1"
@@ -7183,6 +7183,36 @@
         "coordinates": [
           24.58412,
           59.33833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6925",
+        "Name": "Suurekoorma",
+        "id": "47539-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49576,
+          59.33369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6926",
+        "Name": "Suurekoorma",
+        "id": "47540-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.49623,
+          59.33357
         ]
       }
     },
@@ -17839,21 +17869,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1428",
-        "Name": "Pae",
-        "id": "14905-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80102,
-          59.4262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1429",
         "Name": "Pae",
         "id": "14906-1"
@@ -17863,6 +17878,21 @@
         "coordinates": [
           24.80173,
           59.42586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6929",
+        "Name": "Pae (ajutine)",
+        "id": "14910-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80056,
+          59.42617
         ]
       }
     },
@@ -24733,36 +24763,6 @@
         "coordinates": [
           24.72213,
           59.44421
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6891",
-        "Name": "Paljassaare (ajutine)",
-        "id": "00016-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70272,
-          59.4602
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6892",
-        "Name": "Paljassaare (ajutine)",
-        "id": "00017-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70237,
-          59.46014
         ]
       }
     },
