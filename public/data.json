@@ -16354,6 +16354,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5698",
+        "Name": "Ülemiste linnak",
+        "id": "09708-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79928,
+          59.4206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1394",
         "Name": "Kuuli",
         "id": "14402-1"
@@ -17869,6 +17884,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1428",
+        "Name": "Pae",
+        "id": "14905-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80102,
+          59.4262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1429",
         "Name": "Pae",
         "id": "14906-1"
@@ -17878,21 +17908,6 @@
         "coordinates": [
           24.80173,
           59.42586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6929",
-        "Name": "Pae (ajutine)",
-        "id": "14910-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80056,
-          59.42617
         ]
       }
     },
