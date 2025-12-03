@@ -11119,21 +11119,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1352",
-        "Name": "Hotell Olümpia",
-        "id": "13101-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75874,
-          59.43075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1276",
         "Name": "Kadriorg",
         "id": "11901-1"
