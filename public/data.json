@@ -5629,6 +5629,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6471",
+        "Name": "Saku Raudteejaam",
+        "id": "23271-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.67613,
+          59.30118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6629",
         "Name": "Sepa",
         "id": "23267-1"
@@ -5638,6 +5653,36 @@
         "coordinates": [
           24.62722,
           59.29213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9963",
+        "Name": "Teaduse",
+        "id": "23275-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66034,
+          59.296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9964",
+        "Name": "Teaduse",
+        "id": "23276-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66044,
+          59.29605
         ]
       }
     },
@@ -5713,21 +5758,6 @@
         "coordinates": [
           24.67606,
           59.30114
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6471",
-        "Name": "Saku Raudteejaam",
-        "id": "23271-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67613,
-          59.30118
         ]
       }
     },
@@ -6778,36 +6808,6 @@
         "coordinates": [
           24.66864,
           59.30234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9963",
-        "Name": "Teaduse",
-        "id": "23275-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66034,
-          59.296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "9964",
-        "Name": "Teaduse",
-        "id": "23276-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.66044,
-          59.29605
         ]
       }
     },
@@ -18251,8 +18251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8659,
-          59.43987
+          24.86642,
+          59.43998
         ]
       }
     },
