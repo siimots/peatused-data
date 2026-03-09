@@ -13579,21 +13579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1267",
-        "Name": "Lubja",
-        "id": "11607-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.77888,
-          59.4273
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4430",
         "Name": "Mõigu",
         "id": "23152-1"
