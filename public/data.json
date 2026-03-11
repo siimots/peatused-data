@@ -12034,6 +12034,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "11608",
+        "Name": "Lubja",
+        "id": "11610-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77868,
+          59.4275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1090",
         "Name": "Auru",
         "id": "07502-1"
@@ -17036,8 +17051,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.79634,
-          59.42668
+          24.79591,
+          59.42682
         ]
       }
     },
