@@ -544,21 +544,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "2300",
-        "Name": "Mõigu",
-        "id": "13601-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81606,
-          59.40626
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4432",
         "Name": "Veski",
         "id": "23188-1"
@@ -568,6 +553,21 @@
         "coordinates": [
           24.80394,
           59.38981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "2300",
+        "Name": "Mõigu",
+        "id": "13601-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81606,
+          59.40626
         ]
       }
     },
@@ -733,6 +733,21 @@
         "coordinates": [
           24.61095,
           59.35621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5877",
+        "Name": "Haabersti",
+        "id": "00308-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65077,
+          59.42478
         ]
       }
     },
@@ -1498,21 +1513,6 @@
         "coordinates": [
           24.64863,
           59.4237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5877",
-        "Name": "Haabersti",
-        "id": "00308-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65077,
-          59.42478
         ]
       }
     },
