@@ -1,5 +1,4 @@
-import { readFileSync, writeFile } from "fs";
-import fetch from "node-fetch";
+import { readFileSync, writeFile } from "node:fs";
 import { pointsWithinPolygon } from "@turf/points-within-polygon";
 
 const DEBUG = false;
