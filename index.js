@@ -27,6 +27,16 @@ const toGeoJSONCollection = (data, withId, withRoutes) => {
     result.features.push(feature);
   });
 
+  result.features.sort((a, b) => {
+    if (a.properties.Name < b.properties.Name) {
+      return -1;
+    } else if (a.properties.Name > b.properties.Name) {
+      return 1;
+    } else {
+      return 0;
+    }
+  });
+
   if (USEBUFFER) {
     const Tallinn8kmBuffer = JSON.parse(readFileSync("./buffer.json"));
     result = pointsWithinPolygon(result, Tallinn8kmBuffer);
