@@ -14929,21 +14929,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "11101",
-        "Name": "Orumetsa",
-        "id": "19511-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.01378,
-          59.47937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4077",
         "Name": "Oruvärava",
         "id": "12803-1"
@@ -15088,36 +15073,6 @@
         "coordinates": [
           24.83473,
           59.43465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "14382",
-        "Name": "Paagi",
-        "id": "09307-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70149,
-          59.46373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "14383",
-        "Name": "Paagi",
-        "id": "09308-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70187,
-          59.46356
         ]
       }
     },
@@ -15613,21 +15568,6 @@
         "coordinates": [
           24.7044,
           59.45993
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1163",
-        "Name": "Paljassaare põik",
-        "id": "09305-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.69958,
-          59.46497
         ]
       }
     },
@@ -24598,21 +24538,6 @@
         "coordinates": [
           24.53405,
           59.31363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5591",
-        "Name": "Vana-Keila",
-        "id": "23431-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.56008,
-          59.31275
         ]
       }
     },
