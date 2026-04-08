@@ -15079,6 +15079,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "14382",
+        "Name": "Paagi",
+        "id": "09307-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70149,
+          59.46373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "14383",
+        "Name": "Paagi",
+        "id": "09308-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70187,
+          59.46356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1413",
         "Name": "Paala",
         "id": "14708-1"
@@ -15568,6 +15598,21 @@
         "coordinates": [
           24.7044,
           59.45993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1163",
+        "Name": "Paljassaare põik",
+        "id": "09305-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69958,
+          59.46497
         ]
       }
     },
