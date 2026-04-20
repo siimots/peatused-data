@@ -3844,21 +3844,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1369",
-        "Name": "Kaubajaama",
-        "id": "13502-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81199,
-          59.42285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "130",
         "Name": "Kaubajaama",
         "id": "13510-1"
@@ -3868,6 +3853,21 @@
         "coordinates": [
           24.81085,
           59.42213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1369",
+        "Name": "Kaubajaama",
+        "id": "13502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81199,
+          59.42285
         ]
       }
     },
@@ -8104,6 +8104,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6061",
+        "Name": "Mustakivisilla",
+        "id": "16011-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.86592,
+          59.43992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6062",
         "Name": "Mustakivisilla",
         "id": "16012-1"
@@ -8111,8 +8126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.86506,
-          59.43993
+          24.86618,
+          59.44013
         ]
       }
     },
@@ -16459,6 +16474,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3099",
+        "Name": "Äigrumäe",
+        "id": "18623-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.89083,
+          59.48138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1554",
         "Name": "Äigrumäe",
         "id": "18609-1"
@@ -16483,21 +16513,6 @@
         "coordinates": [
           24.89002,
           59.4811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3099",
-        "Name": "Äigrumäe",
-        "id": "18623-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.89083,
-          59.48138
         ]
       }
     },
