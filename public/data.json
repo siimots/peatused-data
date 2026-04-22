@@ -8134,21 +8134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "48",
-        "Name": "Mustakivisilla (ajutine)",
-        "id": "16020-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.86305,
-          59.43925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "920",
         "Name": "Mustamäe",
         "id": "03501-1"
