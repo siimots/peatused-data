@@ -1849,6 +1849,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "341",
+        "Name": "Hipodroom (ajutine)",
+        "id": "08900-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70759,
+          59.42989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1300",
         "Name": "Hobujaama",
         "id": "12206-1"
@@ -12868,21 +12883,6 @@
         "coordinates": [
           24.71134,
           59.448
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6145",
-        "Name": "Supelranna",
-        "id": "09608-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.68727,
-          59.44383
         ]
       }
     },
