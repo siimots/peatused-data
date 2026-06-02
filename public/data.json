@@ -1669,15 +1669,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6146",
-        "Name": "Helme",
-        "id": "09705-1"
+        "SiriID": "272",
+        "Name": "Helme (ajutine)",
+        "id": "09709-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.69903,
-          59.44029
+          24.69679,
+          59.44162
         ]
       }
     },
@@ -1828,21 +1828,6 @@
         "coordinates": [
           24.70343,
           59.4284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1133",
-        "Name": "Hipodroom",
-        "id": "08902-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70637,
-          59.42988
         ]
       }
     },
