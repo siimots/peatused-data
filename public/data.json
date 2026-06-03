@@ -1669,15 +1669,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "272",
-        "Name": "Helme (ajutine)",
-        "id": "09709-1"
+        "SiriID": "6146",
+        "Name": "Helme",
+        "id": "09705-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.69679,
-          59.44162
+          24.69903,
+          59.44029
         ]
       }
     },
@@ -10699,21 +10699,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "954",
-        "Name": "Pärnu maantee",
-        "id": "04403-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63043,
-          59.35973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "955",
         "Name": "Pärnu maantee",
         "id": "04405-1"
@@ -10723,6 +10708,21 @@
         "coordinates": [
           24.62983,
           59.36003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "83",
+        "Name": "Pärnu maantee",
+        "id": "04510-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63059,
+          59.359
         ]
       }
     },
