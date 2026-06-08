@@ -16039,21 +16039,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1411",
-        "Name": "Väike-Paala",
-        "id": "14706-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80806,
-          59.42646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6895",
         "Name": "Väike-Paala (ajutine)",
         "id": "00018-1"
@@ -16063,6 +16048,21 @@
         "coordinates": [
           24.81052,
           59.42668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1746",
+        "Name": "Väike-Paala (ajutine)",
+        "id": "14713-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80932,
+          59.4266
         ]
       }
     },
