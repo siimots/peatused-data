@@ -1684,6 +1684,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "272",
+        "Name": "Helme (ajutine)",
+        "id": "09709-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69679,
+          59.44162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1535",
         "Name": "Helmiku tee",
         "id": "18304-1"
@@ -15553,6 +15568,21 @@
         "coordinates": [
           24.83638,
           59.4991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1747",
+        "Name": "Viimsi vallamaja (ajutine)",
+        "id": "20814-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82947,
+          59.49941
         ]
       }
     },
