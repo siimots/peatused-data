@@ -1669,21 +1669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "6146",
-        "Name": "Helme",
-        "id": "09705-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.69903,
-          59.44029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "272",
         "Name": "Helme (ajutine)",
         "id": "09709-1"
