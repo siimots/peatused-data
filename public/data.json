@@ -12874,6 +12874,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6145",
+        "Name": "Supelranna",
+        "id": "09608-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68727,
+          59.44383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1177",
         "Name": "Supelranna",
         "id": "09605-1"
