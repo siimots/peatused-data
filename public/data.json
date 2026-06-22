@@ -7354,21 +7354,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "21",
-        "Name": "Majaka (ajutine peatus)",
-        "id": "14813-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78951,
-          59.4284
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1424",
         "Name": "Majaka põik",
         "id": "14901-1"
