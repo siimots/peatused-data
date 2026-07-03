@@ -1669,6 +1669,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "6146",
+        "Name": "Helme",
+        "id": "09705-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.69903,
+          59.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1535",
         "Name": "Helmiku tee",
         "id": "18304-1"
@@ -11194,6 +11209,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5697",
+        "Name": "Rannapargi",
+        "id": "09707-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68748,
+          59.44177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6575",
         "Name": "Raua",
         "id": "00188-1"
@@ -12823,6 +12853,21 @@
         "coordinates": [
           24.71134,
           59.448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6145",
+        "Name": "Supelranna",
+        "id": "09608-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.68727,
+          59.44383
         ]
       }
     },
