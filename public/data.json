@@ -4459,36 +4459,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "68",
-        "Name": "Kivinuka",
-        "id": "03606-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65229,
-          59.39487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "69",
-        "Name": "Kivinuka",
-        "id": "03607-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.65057,
-          59.39503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1314",
         "Name": "Kivisilla",
         "id": "12220-3"
@@ -8374,15 +8344,15 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "67",
-        "Name": "Mäepealse",
-        "id": "03605-1"
+        "SiriID": "1883",
+        "Name": "Mäepealse (ajutine)",
+        "id": "03600-1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.64594,
-          59.39462
+          24.64648,
+          59.3985
         ]
       }
     },
