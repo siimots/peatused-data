@@ -3214,6 +3214,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "5651",
+        "Name": "Kakumäe sadam",
+        "id": "00502-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.60483,
+          59.44985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "796",
         "Name": "Kakumäe tee",
         "id": "00111-1"
@@ -4453,6 +4468,36 @@
         "coordinates": [
           24.65444,
           59.37844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "68",
+        "Name": "Kivinuka",
+        "id": "03606-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65229,
+          59.39487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "69",
+        "Name": "Kivinuka",
+        "id": "03607-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.65057,
+          59.39503
         ]
       }
     },
@@ -8344,6 +8389,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "67",
+        "Name": "Mäepealse",
+        "id": "03605-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64594,
+          59.39462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1883",
         "Name": "Mäepealse (ajutine)",
         "id": "03600-1"
@@ -9574,6 +9634,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "102",
+        "Name": "Paekalda",
+        "id": "17508-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82142,
+          59.44945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9478",
         "Name": "Paemurru",
         "id": "21587-1"
@@ -10663,6 +10738,21 @@
         "coordinates": [
           24.62983,
           59.36003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6240",
+        "Name": "Pärnu maantee",
+        "id": "04506-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63124,
+          59.35938
         ]
       }
     },
@@ -13033,6 +13123,21 @@
         "coordinates": [
           24.6769,
           59.40482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6784",
+        "Name": "Särje (ajutine)",
+        "id": "00010-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64244,
+          59.37963
         ]
       }
     },
@@ -16663,6 +16768,36 @@
         "coordinates": [
           24.79297,
           59.42296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "19",
+        "Name": "Ülemiste linnak",
+        "id": "13511-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79939,
+          59.42085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "254",
+        "Name": "Ülemiste linnak",
+        "id": "13512-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79956,
+          59.42074
         ]
       }
     },
