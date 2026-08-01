@@ -2314,21 +2314,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1488",
-        "Name": "Iru hooldekodu",
-        "id": "16503-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.90529,
-          59.45294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "213",
         "Name": "Iru hooldekodu",
         "id": "16510-1"
@@ -4069,36 +4054,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5922",
-        "Name": "Kesk-Mustamäe",
-        "id": "03406-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.67894,
-          59.40299
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5923",
-        "Name": "Kesk-Mustamäe",
-        "id": "03407-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6795,
-          59.40311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1370",
         "Name": "Kesk-Sõjamäe",
         "id": "13503-1"
@@ -4213,21 +4168,6 @@
         "coordinates": [
           24.76849,
           59.43163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "889",
-        "Name": "Keskuse",
-        "id": "02901-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6802,
-          59.39919
         ]
       }
     },
@@ -6049,21 +5989,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1037",
-        "Name": "Leesika",
-        "id": "06408-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71813,
-          59.38698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1038",
         "Name": "Leesika",
         "id": "06409-1"
@@ -6163,21 +6088,6 @@
         "coordinates": [
           24.79954,
           59.41814
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5720",
-        "Name": "Lennujaam (airport)",
-        "id": "13514-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79845,
-          59.41843
         ]
       }
     },
@@ -9559,21 +9469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1428",
-        "Name": "Pae",
-        "id": "14905-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80102,
-          59.4262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1429",
         "Name": "Pae",
         "id": "14906-1"
@@ -10738,36 +10633,6 @@
         "coordinates": [
           24.62983,
           59.36003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6240",
-        "Name": "Pärnu maantee",
-        "id": "04506-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63124,
-          59.35938
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "83",
-        "Name": "Pärnu maantee",
-        "id": "04510-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.63059,
-          59.359
         ]
       }
     },
@@ -13039,21 +12904,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1405",
-        "Name": "Suur-Paala",
-        "id": "14701-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81404,
-          59.4269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1407",
         "Name": "Suur-Paala",
         "id": "14702-1"
@@ -13063,21 +12913,6 @@
         "coordinates": [
           24.81421,
           59.42674
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1408",
-        "Name": "Suur-Paala",
-        "id": "14703-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.81467,
-          59.42678
         ]
       }
     },
@@ -13693,6 +13528,36 @@
         "coordinates": [
           24.7132,
           59.41977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6240",
+        "Name": "Teelise",
+        "id": "04506-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63124,
+          59.35938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "83",
+        "Name": "Teelise",
+        "id": "04510-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63059,
+          59.359
         ]
       }
     },
@@ -16129,21 +15994,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1432",
-        "Name": "Väike-Paala",
-        "id": "14909-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80768,
-          59.42655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "6895",
         "Name": "Väike-Paala (ajutine)",
         "id": "00018-1"
@@ -16153,21 +16003,6 @@
         "coordinates": [
           24.81052,
           59.42668
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1746",
-        "Name": "Väike-Paala (ajutine)",
-        "id": "14713-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.80932,
-          59.4266
         ]
       }
     },
