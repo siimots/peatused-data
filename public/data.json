@@ -1099,21 +1099,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1191",
-        "Name": "Erika",
-        "id": "09810-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71671,
-          59.45212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1192",
         "Name": "Erika",
         "id": "09811-1"
@@ -15958,21 +15943,6 @@
         "coordinates": [
           24.72426,
           59.44987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1182",
-        "Name": "Väike-Erika",
-        "id": "09801-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71434,
-          59.45006
         ]
       }
     },
