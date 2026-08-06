@@ -379,6 +379,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "3982",
+        "Name": "Angerja (ajutine)",
+        "id": "09912-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70939,
+          59.45013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "850",
         "Name": "Astangu",
         "id": "01902-1"
@@ -1078,21 +1093,6 @@
         "coordinates": [
           24.71067,
           59.39784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1191",
-        "Name": "Erika",
-        "id": "09810-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71671,
-          59.45212
         ]
       }
     },
@@ -12649,6 +12649,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "72",
+        "Name": "Sitsi (ajutine)",
+        "id": "09916-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70448,
+          59.4529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "3983",
+        "Name": "Sitsi (ajutine)",
+        "id": "09913-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70463,
+          59.45295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "787",
         "Name": "Soolahe tee",
         "id": "00103-1"
@@ -15913,21 +15943,6 @@
         "coordinates": [
           24.72426,
           59.44987
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1182",
-        "Name": "Väike-Erika",
-        "id": "09801-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.71434,
-          59.45006
         ]
       }
     },
