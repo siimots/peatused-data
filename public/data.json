@@ -769,6 +769,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1341",
+        "Name": "Bussijaam (bus station)",
+        "id": "12901-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.77095,
+          59.42688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1261",
         "Name": "Bussijaam (bus station)",
         "id": "11601-1"
@@ -913,6 +928,21 @@
         "coordinates": [
           24.80311,
           59.42296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6151",
+        "Name": "Dvigatel (ajutine)",
+        "id": "09710-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80157,
+          59.42315
         ]
       }
     },
@@ -1093,6 +1123,21 @@
         "coordinates": [
           24.71067,
           59.39784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1191",
+        "Name": "Erika",
+        "id": "09810-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71671,
+          59.45212
         ]
       }
     },
@@ -3853,6 +3898,21 @@
         "coordinates": [
           24.81199,
           59.42285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6670",
+        "Name": "Kaubajaama (ajutine)",
+        "id": "13519-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81172,
+          59.42307
         ]
       }
     },
@@ -15928,6 +15988,21 @@
         "coordinates": [
           24.72426,
           59.44987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1182",
+        "Name": "Väike-Erika",
+        "id": "09801-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.71434,
+          59.45006
         ]
       }
     },
