@@ -379,21 +379,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "3982",
-        "Name": "Angerja (ajutine)",
-        "id": "09912-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70939,
-          59.45013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "850",
         "Name": "Astangu",
         "id": "01902-1"
@@ -12688,36 +12673,6 @@
         "coordinates": [
           24.70303,
           59.45315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "72",
-        "Name": "Sitsi (ajutine)",
-        "id": "09916-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70448,
-          59.4529
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "3983",
-        "Name": "Sitsi (ajutine)",
-        "id": "09913-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70463,
-          59.45295
         ]
       }
     },
