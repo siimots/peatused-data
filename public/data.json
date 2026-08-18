@@ -1834,6 +1834,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "341",
+        "Name": "Hipodroom (ajutine)",
+        "id": "08900-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.70759,
+          59.42989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1300",
         "Name": "Hobujaama",
         "id": "12206-1"
@@ -2278,6 +2293,21 @@
         "coordinates": [
           24.90639,
           59.46088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1488",
+        "Name": "Iru hooldekodu",
+        "id": "16503-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.90529,
+          59.45294
         ]
       }
     },
@@ -9514,6 +9544,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1913",
+        "Name": "Paekalda",
+        "id": "17508-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82153,
+          59.44941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "9478",
         "Name": "Paemurru",
         "id": "21587-1"
@@ -16033,6 +16078,36 @@
         "coordinates": [
           24.70077,
           59.4254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5831",
+        "Name": "Välja tee",
+        "id": "47218-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5916,
+          59.42029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5832",
+        "Name": "Välja tee",
+        "id": "47219-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.59056,
+          59.41979
         ]
       }
     },
