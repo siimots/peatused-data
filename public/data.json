@@ -1834,21 +1834,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "341",
-        "Name": "Hipodroom (ajutine)",
-        "id": "08900-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.70759,
-          59.42989
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1300",
         "Name": "Hobujaama",
         "id": "12206-1"
@@ -1978,6 +1963,21 @@
         "coordinates": [
           24.63641,
           59.37893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1352",
+        "Name": "Hotell Olümpia",
+        "id": "13101-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75874,
+          59.43075
         ]
       }
     },
@@ -16078,36 +16078,6 @@
         "coordinates": [
           24.70077,
           59.4254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5831",
-        "Name": "Välja tee",
-        "id": "47218-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.5916,
-          59.42029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5832",
-        "Name": "Välja tee",
-        "id": "47219-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.59056,
-          59.41979
         ]
       }
     },
