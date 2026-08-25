@@ -1984,66 +1984,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1353",
-        "Name": "Hotell Olümpia",
-        "id": "13102-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75874,
-          59.42893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "6814",
-        "Name": "Hotell Olümpia",
-        "id": "13104-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75811,
-          59.42932
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1315",
-        "Name": "Hotell Olümpia",
-        "id": "12301-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76044,
-          59.43104
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1354",
-        "Name": "Hotell Olümpia",
-        "id": "13103-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76121,
-          59.43112
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1236",
         "Name": "Hotell Tallinn",
         "id": "10901-1"
@@ -6103,6 +6043,36 @@
         "coordinates": [
           24.79905,
           59.41821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1315",
+        "Name": "Lennuki",
+        "id": "12301-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76044,
+          59.43104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1354",
+        "Name": "Lennuki",
+        "id": "13103-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76121,
+          59.43112
         ]
       }
     },
@@ -11293,6 +11263,36 @@
         "coordinates": [
           24.89058,
           59.44538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1353",
+        "Name": "Ravi",
+        "id": "13102-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75874,
+          59.42893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "6814",
+        "Name": "Ravi",
+        "id": "13104-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75811,
+          59.42932
         ]
       }
     },
