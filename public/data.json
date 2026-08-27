@@ -12334,21 +12334,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "5787",
-        "Name": "Siimeoni",
-        "id": "16211-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75924,
-          59.44019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "2008",
         "Name": "Siimeoni",
         "id": "00175-1"
@@ -12358,6 +12343,21 @@
         "coordinates": [
           24.76009,
           59.43945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "5787",
+        "Name": "Siimeoni",
+        "id": "16211-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75924,
+          59.44019
         ]
       }
     },
