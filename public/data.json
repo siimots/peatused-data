@@ -9439,6 +9439,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1428",
+        "Name": "Pae",
+        "id": "14905-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80102,
+          59.4262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1429",
         "Name": "Pae",
         "id": "14906-1"
@@ -12364,6 +12379,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1914",
+        "Name": "Siimeoni (ajutine)",
+        "id": "00197-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75696,
+          59.44062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1422",
         "Name": "Sikupilli",
         "id": "14805-1"
@@ -12889,6 +12919,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1405",
+        "Name": "Suur-Paala",
+        "id": "14701-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81404,
+          59.4269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1407",
         "Name": "Suur-Paala",
         "id": "14702-1"
@@ -12898,6 +12943,21 @@
         "coordinates": [
           24.81421,
           59.42674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1408",
+        "Name": "Suur-Paala",
+        "id": "14703-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.81467,
+          59.42678
         ]
       }
     },
@@ -15973,6 +16033,36 @@
         "coordinates": [
           24.80956,
           59.42629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1411",
+        "Name": "Väike-Paala",
+        "id": "14706-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80806,
+          59.42646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1432",
+        "Name": "Väike-Paala",
+        "id": "14909-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80768,
+          59.42655
         ]
       }
     },
