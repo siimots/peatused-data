@@ -1369,36 +1369,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1257",
-        "Name": "Gonsiori",
-        "id": "11401-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.7679,
-          59.4344
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1258",
-        "Name": "Gonsiori",
-        "id": "11402-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.76998,
-          59.43398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "5877",
         "Name": "Haabersti",
         "id": "00308-2"
@@ -11614,6 +11584,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1257",
+        "Name": "Ringhäälingu",
+        "id": "11401-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7679,
+          59.4344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1258",
+        "Name": "Ringhäälingu",
+        "id": "11402-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.76998,
+          59.43398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1562",
         "Name": "Ristaia",
         "id": "18617-1"
@@ -12358,21 +12358,6 @@
         "coordinates": [
           24.76009,
           59.43945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "5787",
-        "Name": "Siimeoni",
-        "id": "16211-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.75924,
-          59.44019
         ]
       }
     },
