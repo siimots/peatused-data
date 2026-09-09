@@ -12514,6 +12514,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "13011",
+        "Name": "Sinilille",
+        "id": "00902-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.64398,
+          59.4198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "863",
         "Name": "Sipelga",
         "id": "02111-1"
