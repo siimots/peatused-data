@@ -14959,6 +14959,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1915",
+        "Name": "Vana-Kuuli (ajutine)",
+        "id": "17602-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.82979,
+          59.44338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1252",
         "Name": "Vana-Lõuna",
         "id": "11306-1"
@@ -15523,6 +15538,21 @@
         "coordinates": [
           24.8316,
           59.50806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "9604",
+        "Name": "Viimsi vallamaja",
+        "id": "23655-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.83638,
+          59.4991
         ]
       }
     },
