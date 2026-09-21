@@ -15559,21 +15559,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1747",
-        "Name": "Viimsi vallamaja (ajutine)",
-        "id": "20814-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.82947,
-          59.49941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "946",
         "Name": "Vikerkaare",
         "id": "04201-1"
