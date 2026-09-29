@@ -14659,21 +14659,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "1284",
-        "Name": "Vabaduse väljak",
-        "id": "12003-2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.74206,
-          59.43235
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "1285",
         "Name": "Vabaduse väljak",
         "id": "12003-3"
