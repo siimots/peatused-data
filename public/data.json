@@ -4429,6 +4429,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1917",
+        "Name": "Kivisilla (ajutine)",
+        "id": "12305-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7575,
+          59.43466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1548",
         "Name": "Kloostrimetsa",
         "id": "18603-1"
@@ -8126,7 +8141,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.67944,
+          24.67946,
           59.42894
         ]
       }
@@ -14653,6 +14668,21 @@
         "coordinates": [
           24.74267,
           59.43251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1284",
+        "Name": "Vabaduse väljak",
+        "id": "12003-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.74206,
+          59.43235
         ]
       }
     },
