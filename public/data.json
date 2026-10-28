@@ -2674,21 +2674,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4052",
-        "Name": "Järvevana",
-        "id": "13009-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78577,
-          59.42263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4050",
         "Name": "Järvevana",
         "id": "13401-1"
@@ -7294,6 +7279,21 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1426",
+        "Name": "Majaka põik",
+        "id": "14903-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79754,
+          59.42629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "6897",
         "Name": "Majaka põik (ajutine)",
         "id": "00019-1"
@@ -9424,6 +9424,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "1430",
+        "Name": "Pae",
+        "id": "14907-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80122,
+          59.42686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1427",
+        "Name": "Pae",
+        "id": "14904-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.79719,
+          59.4257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1428",
         "Name": "Pae",
         "id": "14905-1"
@@ -10894,6 +10924,36 @@
     {
       "type": "Feature",
       "properties": {
+        "SiriID": "632",
+        "Name": "Radarikeskus",
+        "id": "13809-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8549,
+          59.40895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "639",
+        "Name": "Radarikeskus",
+        "id": "13810-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.85402,
+          59.40887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "SiriID": "1618",
         "Name": "Rahnu",
         "id": "20816-1"
@@ -11878,6 +11938,36 @@
         "coordinates": [
           24.6313,
           59.36528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "642",
+        "Name": "Roosivälja tee",
+        "id": "13811-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.87913,
+          59.41424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "709",
+        "Name": "Roosivälja tee",
+        "id": "13812-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.88083,
+          59.41404
         ]
       }
     },
@@ -16048,6 +16138,21 @@
         "coordinates": [
           24.80806,
           59.42646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SiriID": "1431",
+        "Name": "Väike-Paala",
+        "id": "14908-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8072,
+          59.42638
         ]
       }
     },
