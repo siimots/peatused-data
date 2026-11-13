@@ -2674,21 +2674,6 @@
     {
       "type": "Feature",
       "properties": {
-        "SiriID": "4052",
-        "Name": "Järvevana",
-        "id": "13009-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.78577,
-          59.42263
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "SiriID": "4050",
         "Name": "Järvevana",
         "id": "13401-1"
@@ -16738,21 +16723,6 @@
         "coordinates": [
           24.79297,
           59.42296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "SiriID": "1918",
-        "Name": "Ülemiste keskus (ajutine)",
-        "id": "13011-1"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.79028,
-          59.42108
         ]
       }
     },
