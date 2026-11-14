@@ -8,6 +8,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@turf/points-within-polygon": "7.3.4"
+    "@turf/points-within-polygon": "7.4.0"
   }
 }
